@@ -22,6 +22,10 @@ Mahasiswa fiktif: **Nadia**. Semua nama dan evidence di halaman ini fiktif. [Buk
 
 **Konteks:** Bagian narasi milik “Raka” terlambat dua hari. Nadia awalnya melihat Raka hanya sebagai “anggota yang tidak disiplin”. Itu adalah story, bukan fakta. Fakta yang tersedia baru satu: dokumen narasi belum masuk pada waktu yang disepakati.
 
+    +
+
+
+    
 **Objective:** Beralih dari ketidakjelasan menjadi pembagian kerja dan tenggat baru yang disepakati, sambil menjaga hubungan kerja.
 
 > **Nadia:** “Sebelum kita menentukan tenggat baru, boleh ceritakan apa yang menghambat bagian narasi?”  
