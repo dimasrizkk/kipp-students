@@ -1,25 +1,75 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
 ---
 
-## Kompetensi target
+# Relationship Conversation Journal
 
-Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+### Konteks dan relationship state
 
-## Evidence wajib
+Saya dan Bantep (rekan tim pengembang *frontend* dalam proyek Sistem dan Teknologi Informasi). Selama tiga minggu terakhir, Bantep kerap menyerahkan tugas integrasi *error-handling* dan penyesuaian antarmuka *frontend* di batas akhir tenggat waktu (*deadline*) kepada saya. Saya sempat menyampaikan pesan singkat *"Tolong diperiksa kembali komponen frontend-nya"* di Discord, namun belum pernah mendiskusikan batas kapasitas kerja serta pembagian tanggung jawab (*ownership*) modul secara eksplisit.
 
-- Transcript atau catatan percakapan.
-- Evidence listening dan response.
-- Analisis relationship state sebelum dan sesudah.
+**State sebelum percakapan:** Hubungan profesional dan pertemanan terjalin baik, namun timbul kecemasan serta potensi kelelahan (*burnout*) di sisi saya dengan tingkat ketegangan 8/10. *Objective* saya: menyepakati batas waktu penyerahan tugas dan pembagian tanggung jawab modul tanpa menimbulkan sikap defensif atau persepsi menyalahkan di pihak Bantep.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+------------------------------------------------------------------------
 
-{{< include ../includes/evidence-template.md >}}
+### Potongan transcript
+
+> **Saya:** "Bantep, saya ingin membahas mengenai integrasi modul kemarin. Tiga kali penyerahan tugas terakhir, saya selalu menyelesaikan perbaikan integrasi *frontend* sekitar pukul 23.00 WIB menjelang batas tenggat. Hal ini membuat saya merasa kelelahan dan cemas."\
+> **Bantep:** "Saya mengira kamu tidak keberatan, karena saat kamu memperbaiki kode tersebut kamu tidak menyampaikan keluhan."\
+> **Saya:** "Berarti karena selama ini saya langsung memperbaiki kode tanpa berdiskusi, kamu menangkap sinyal bahwa alur kerja tersebut dapat diterima?"\
+> **Bantep:** "Iya, benar. Selain itu, saya jujur masih bingung menangani *error status* dari *backend* yang kamu buat, sehingga khawatir kode tersebut justru semakin bermasalah jika saya perbaiki sendiri."\
+> **Saya:** "Terima kasih atas kejujurannya. Saya memahami bahwa bagian integrasi *error status* memang memiliki kompleksitas tersendiri. Namun, saya membutuhkan jam kerja yang sehat dan tidak mengambil alih bagian *frontend*. Bagaimana jika kita mengadakan sesi *pairing* selama 20 menit sebelum *submission*, lalu menetapkan format *response* pada dokumen API?"\
+> **Bantep:** "Solusi tersebut sangat membantu. Jika dokumentasinya jelas, saya dapat menyelesaikan bagian saya secara mandiri sebelum pukul 18.00 WIB."
+
+------------------------------------------------------------------------
+
+### Analisis listening, boundary, dan repair
+
+Saya memulai percakapan menggunakan observasi faktual dan spesifik (tiga kali penyerahan tugas terakhir, waktu pengerjaan pukul 23.00 WIB), alih-alih memberi label subjektif seperti "kurang bertanggung jawab".
+
+*Paraphrase* yang saya lakukan (*"Berarti karena selama ini saya langsung memperbaiki..."*) berhasil mengklarifikasi fakta mendasar: Bantep tidak bermaksud melimpahkan tugas, melainkan mengalami hambatan teknis (*blocking*) dalam memahami *error status backend* dan menginterpretasikan sikap diam saya sebagai persetujuan.
+
+**Boundary & Adaptation:** Berdasarkan temuan fakta tersebut, saya mengadaptasi *request* yang semula berfokus pada pembatasan jam kerja secara kaku menjadi kombinasi dukungan teknis (sesi *pairing* 20 menit) dan penetapan *boundary* yang jelas (pembekuan spesifikasi API contract dan batas waktu *handover* pukul 18.00 WIB).
+
+**Repair:** Saya juga melakukan tindakan *repair* atas pola komunikasi saya sebelumnya: *"Saya memohon maaf karena sebelumnya langsung memperbaiki kode tersebut tanpa berdiskusi terlebih dahulu. Seharusnya saya mengomunikasikan batas kapasitas saya sejak awal."* Bantep menerima *repair* ini dengan terbuka sehingga iklim komunikasi tetap kondusif.
+
+------------------------------------------------------------------------
+
+### Relationship outcome dan evidence
+
+- **Dokumen Artefak:** Pembaruan dokumen *API Contract* pada Notion dan daftar *backlog* tugas pada papan kerja proyek.
+- **Catatan Observer:** Tangkapan layar kesepakatan sesi *pairing* yang dijadwalkan pada kalender tim.
+- **Check-in 7 hari kemudian:** Pada *sprint deployment* berikutnya, Bantep berhasil menyelesaikan integrasi *frontend* secara mandiri pada pukul 17.15 WIB. Sesi *pairing* berlangsung selama 15 menit tanpa memerlukan pengambilalihan kode di larut malam.
+- **Perubahan Ketegangan:** Ketegangan emosional dan kognitif yang saya rasakan menurun secara signifikan dari 8/10 menjadi 1/10. Komunikasi dalam tim menjadi lebih transparan dan setara.
+
+------------------------------------------------------------------------
+
+### Penggunaan AI
+
+- **Alat dan peran AI:** Menggunakan AI sebagai media simulasi untuk mengevaluasi struktur kalimat sebelum percakapan berlangsung.
+- **Prompt atau instruksi penting:** *"Berikut draf kalimat yang akan saya sampaikan kepada rekan tim terkait pembagian tugas. Tolong evaluasi apakah terdapat frasa yang berpotensi memicu sikap defensif dan ubah menjadi pernyataan observasi berbasis fakta."*
+- **Bagian output yang digunakan, diubah, atau ditolak:**
+  - *Digunakan:* Usulan AI untuk mengarahkan fokus percakapan pada penyelarasan dokumen API contract daripada mengkritik kecepatan kerja Bantep.
+  - *Ditolak:* Draf saran AI untuk menetapkan sanksi internal tim jika terjadi keterlambatan, karena dinilai terlalu kaku dan dapat merusak *psychological safety* kelompok.
+- **Pemeriksaan accuracy, privacy, dan authority:** Nama rekan, proyek, dan data sensitif disamarkan. Keputusan penetapan *boundary* dan tawaran *repair* sepenuhnya ditentukan secara mandiri.
+- **Apa yang tetap Anda pelajari sebagai manusia:** AI membantu dalam memformulasikan struktur bahasa yang netral, namun empati untuk memahami hambatan teknis rekan kerja serta keberanian menyampaikan *boundary* pribadi secara tenang tetap memerlukan kepekaan manusiawi secara *real-time*.
+
+------------------------------------------------------------------------
+
+### Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|----------------------|----------------------------:|----------------------|
+| **Person & Character** | 4 | Memahami kebutuhan mendasar kedua belah pihak (kejelasan spesifikasi teknis bagi Bantep; jam kerja sehat bagi saya) serta mengelola peran secara profesional. |
+| **Objective & State** | 4 | Ketegangan awal (8/10) diungkapkan secara transparan; tujuan menetapkan *boundary* tanpa merusak hubungan kerja tim tercapai secara terukur. |
+| **Repertoire, Language & AI** | 4 | Menerapkan kombinasi *observation*, *paraphrase*, *boundary*, dan *repair*; AI digunakan sebagai alat bantu analisis tanpa menyerahkan otoritas keputusan. |
+| **Response & Adaptation** | 4 | *Paraphrase* mendalam berhasil mengidentifikasi akar masalah teknis; solusi diadaptasi menjadi sesi *pairing* dan penepatan *API contract*. |
+| **Agreement, Action & Relationship** | 4 | Kesepakatan tereksekusi pada *sprint* berikutnya; tingkat ketegangan turun ke 1/10 dan kualitas kolaborasi tim menguat. |
+
+**Total: 20 / 20** - Lanjut. Melalui percakapan ini, saya menyadari bahwa kecenderungan menyelesaikan masalah orang lain secara sepihak (*over-functioning*) tanpa komunikasi yang jelas justru berpotensi memicu timbulnya miskonsepsi dalam tim. Penyetelan *boundary* yang tegas namun disampaikan melalui observasi yang empati mampu menyelesaikan hambatan teknis sekaligus menjaga integritas relasional antaranggota kelompok.
