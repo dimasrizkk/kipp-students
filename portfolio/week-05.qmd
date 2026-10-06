@@ -1,25 +1,102 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+status: "Seleai"
+self_score: "20"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
 ---
 
-## Kompetensi target
+# Discovery Interview Journal
+
+### Kompetensi target
 
 Mendengar sebelum proposing dan membangun shared problem statement dengan person.
 
-## Evidence wajib
+### Evidence wajib
 
 - Initial assumption dan pertanyaan discovery.
 - Transcript/paraphrase serta problem impact dan constraint.
 - Shared problem statement yang dikonfirmasi partner.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+------------------------------------------------------------------------
 
-{{< include ../includes/evidence-template.md >}}
+### Initial assumption dan pertanyaan discovery
+
+Saya berasumsi bahwa mahasiswa pengguna fasilitas laboratorium/ruang kerja kelompok sering membatalkan sesi kerja kelompok karena terbatasnya kuota perangkat pengujian fisik (*hardware kit* / papan penguji). Sebelum merancang solusi berbasis aplikasi atau sistem antrean baru, saya melakukan *discovery interview* terhadap Lando (mahasiswa Sistem dan Teknologi Informasi yang aktif mengerjakan proyek laboratorium).
+
+**Pertanyaan discovery:**
+
+1.  Bisakah Anda menceritakan pengalaman terakhir kali saat akan menggunakan perangkat pengujian di laboratorium?
+2.  Pada tahapan mana Anda mengalami hambatan paling signifikan?
+3.  Apa dampak konkret dari hambatan tersebut terhadap progres proyek kelompok Anda?
+4.  Solusi sementara (*workaround*) apa yang saat ini Anda gunakan untuk mengatasi kendala tersebut?
+5.  Batasan (*constraint*) apa yang wajib dipertahankan jika alur proses ini diperbaiki?
+
+------------------------------------------------------------------------
+
+### Transcript/paraphrase serta problem impact dan constraint
+
+**Potongan Transcript & Paraphrase:**
+
+> **Saya:** "Bisakah Anda menceritakan pengalaman terakhir kali saat kelompok Anda akan menggunakan *hardware kit* di laboratorium?"\
+> **Lando:** "Minggu lalu kami datang ke lab karena di spreadsheet jadwal tertera kosong. Tapi saat sampai di sana, perangkatnya sedang dipakai kelompok lain yang ternyata memperpanjang sesi secara informal via pesan pribadi ke asisten."\
+> **Saya (Paraphrase):** "Berarti hambatan utamanya bukan pada ketersediaan fisik perangkat, melainkan pada ketidakpastian status pemakaian real-time dan alur perpanjangan yang tidak terdata?"\
+> **Lando:** "Tepat sekali. Perangkatnya ada, tapi kami tidak bisa memprediksi kapan perangkat tersebut benar-benar selesai digunakan."\
+> **Saya:** "Seberapa besar dampak ketidakpastian ini terhadap pengerjaan proyek Anda?"\
+> **Lando:** "Dalam dua minggu terakhir, kami kehilangan sekitar 3 jam waktu pengujian efektif dan harus menggeser jadwal integrasi ke larut malam."\
+> **Saya:** "Jika alur ini diperbaiki, batasan apa yang tidak boleh hilang bagi Anda?"\
+> **Lando:** "Prosesnya harus tetap cepat dan tidak membebani dengan birokrasi pendaftaran berulang yang rumit setiap kali kami ingin memakai alat."
+
+**Dampak Masalah (Problem Impact):** - Kehilangan 3 jam waktu pengujian efektif dalam kurun dua minggu. - Pergeseran jadwal integrasi proyek ke larut malam karena ketidakpastian alur.
+
+**Batasan Pengguna (Constraint):** - Tidak ingin dibebani prosedur birokrasi pendaftaran berulang yang rumit. - Menolak solusi yang menambah kerumitan administrasi fisik maupun aplikasi baru yang memuat beban kerja berlebih.
+
+------------------------------------------------------------------------
+
+### Shared problem statement yang dikonfirmasi partner
+
+Asumsi awal (*initial assumption*) bahwa "jumlah perangkat kurang" terbukti tidak akurat berdasarkan wawancara. Hasil *discovery* menunjukkan bahwa masalah utama terletak pada visibilitas status dan koordinasi alur pemakaian.
+
+**Shared problem statement yang dikonfirmasi Lando:**
+
+> “Mahasiswa yang mengerjakan proyek rekayasa membutuhkan kepastian status ketersediaan perangkat pengujian secara transparan dan mudah diakses, karena alur koordinasi pemakaian yang tidak terpusat menyebabkan bentrok jadwal dan terbuangnya waktu pengujian efektif.”
+
+Lando secara aktif merevisi frasa awal "sistem reservasi terintegrasi" menjadi "kepastian status yang transparan", karena ia ingin memastikan fokus perbaikan berada pada visibilitas informasi, bukan pemaksaan penggunaan aplikasi baru yang kompleks.
+
+------------------------------------------------------------------------
+
+### Evidence pendukung, feedback, dan next step
+
+- **Dokumen Artefak:** Berkas rekaman audio wawancara (durasi 14 menit) yang telah disetujui melalui formulir persetujuan (*informed consent*).
+- **Transkrip Teranonymisasi:** Berkas catatan transkrip wawancara lengkap dengan penanda waktu (*timestamp*).
+- **Pesan Konfirmasi:** Tangkapan layar konfirmasi pernyataan masalah (*problem statement*) dari Lando melalui pesan tertulis.
+- **Feedback Observer:** Observer menandai bahwa saya sempat mengajukan satu pertanyaan yang bersifat mengarahkan (*leading question*), yaitu frasa *"Apakah sistem reservasi web akan membantu?"*. Pertanyaan tersebut dieksklusi dari analisis data utama.
+- **Next Practice:** Melakukan dua wawancara tambahan dengan pengguna dari kelompok berbeda dan mengeksplorasi lebih dalam terkait *current workaround* sebelum melangkah ke tahap pengusulan solusi.
+
+------------------------------------------------------------------------
+
+### Penggunaan AI
+
+- **Alat dan peran AI:** Menggunakan AI untuk melakukan pengelompokan (*tagging*) data transkrip wawancara ke dalam kategori fakta, interpretasi, dan saran solusi.
+- **Prompt atau instruksi penting:** *"ini adalah transkrip wawancara anonim. Klasifikasikan setiap pernyataan narasumber ke dalam tiga label: FAKTA (kejadian nyata), INTERPRETASI (persepsi narasumber), atau SARAN SOLUSI (keinginan fitur)."*
+- **Bagian output yang digunakan, diubah, atau ditolak:**
+  - *Digunakan:* Pemisahan antara fakta durasi keterlambatan (3 jam) dengan interpretasi narasumber mengenai alasan kelompok lain memperpanjang sesi.
+  - *Ditolak:* Rekomendasi AI yang menyimpulkan bahwa narasumber "membutuhkan aplikasi berbasis mobile", karena narasumber secara eksplisit menyatakan menolak prosedur berbirokrasi rumit.
+- **Pemeriksaan accuracy, privacy, dan authority:** Seluruh identitas pribadi, nama laboratorium, dan spesifikasi proyek disamarkan sebelum dianalisis. Keputusan perumusan *problem statement* dilakukan secara mandiri bersama narasumber.
+- **Apa yang tetap Anda pelajari sebagai manusia:** AI dapat memilah teks secara struktural, namun empati untuk merasakan frustrasi pengguna saat waktunya terbuang serta kejelian menahan diri agar tidak menawarkan solusi prematur memerlukan kesadaran kritis wawancara secara langsung.
+
+------------------------------------------------------------------------
+
+### Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|:-----------------------|-----------------------:|:-----------------------|
+| **Person & Character** | 4 | Pemetaan komprehensif terhadap pengalaman, batasan (*constraint*), serta konteks kebutuhan narasumber tanpa bias personal. |
+| **Objective & State** | 4 | Asumsi awal berhasil diperbarui secara objektif menjadi *problem statement* berbasis bukti nyata wawancara. |
+| **Repertoire, Language & AI** | 4 | Penggunaan kombinasi *open-ended questions*, *paraphrasing*, dan verifikasi; AI dimanfaatkan terukur hanya untuk klasifikasi data. |
+| **Response & Adaptation** | 4 | Niat awal menawarkan solusi teknis berhasil ditahan penuh begitu mendengar *constraint* penolakan birokrasi rumit dari narasumber. |
+| **Agreement, Action & Relationship** | 4 | *Problem statement* disepakati bersama secara eksplisit; *next steps* wawancara lanjutan dan perbaikan teknik bertanya telah terencana. |
+
+**Total: 20 / 20.** Proses *discovery interview* mengajarkan pentingnya memisahkan antara masalah yang benar-benar dialami pengguna dengan masalah yang hanya ada dalam asumsi perancang solusi. Mendengarkan secara aktif dan menahan diri untuk tidak langsung menawarkan solusi adalah kunci untuk menemukan akar masalah yang sebenarnya.
