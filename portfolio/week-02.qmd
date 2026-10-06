@@ -1,25 +1,85 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "18"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
 ---
 
-## Kompetensi target
+# Intra-Self Communication Journal
+
+### Fondasi
+
+**Intra-Self**\
+Evidence perubahan dari reaction menuju response.
+
+### Kompetensi target
 
 Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
-## Evidence wajib
+### Evidence wajib
 
 - Satu episode komunikasi dengan diri sendiri.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+------------------------------------------------------------------------
 
-{{< include ../includes/evidence-template.md >}}
+### Konteks performance
+
+- **Tanggal dan setting:** Kamis, 24 September 2026, 19:45–22:00 WIB; Workspace GitHub & kanal Discord tim proyek; Reviu Pull Request modul antrean transaksi & pembayaran.
+- **Persons dan relationship:** Saya (pengembang modul backend) dan Rekan Peer Reviewer / Tech Lead tim (hubungan hierarkis fungsional sejajar dalam tim rekayasa perangkat lunak).
+- **Objective dan initial state:** Menghentikan reaksi impulsif menolak koreksi teknis di ruang publik, lalu beralih memverifikasi latensi sistem secara empiris sebelum pukul 22:00 WIB. Initial state: detak jantung meningkat, rahang mengencang, dorongan kuat mengetik bantahan teknis bahwa reviewer tidak memahami pola arsitektur saya (*fight reaction*).
+
+------------------------------------------------------------------------
+
+### Evidence
+
+Draft komentar balasan GitHub yang dibatalkan pada formulir input: *"Logika ini sudah paling efisien untuk skenario sekarang. Kalau diubah pakai asynchronous worker malah nambah overengineering dan buang-buang waktu sprint."* (Dihapus sebelum dikirim). Digantikan tangkapan layar terminal hasil *load testing* k6 (50 VUs) dan *commit* refactoring `d4e81a7`. Kontribusi saya: menahan pengiriman balasan reaktif, menjalankan *profiling benchmark* lokal, merombak arsitektur ke *bulk processing*, dan menyajikan data faktual di thread PR.
+
+------------------------------------------------------------------------
+
+### Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|:-----------------------------------|:-----------------------------------|
+| **Person & character** | Muncul *The Code Protector* yang merasa tersinggung dan menganggap kritik kode sebagai serangan harga diri. Dinetralkan oleh *The Systems Engineer* yang menempatkan keandalan sistem dan metrik kuantitatif di atas pembelaan ego pribadi. |
+| **Objective & state** | Berhasil meredakan ketegangan fisik (dari skala 8/10 menjadi 3/10) menggunakan jeda taktis 15 menit menjauh dari keyboard. Target respons berbasis data tercapai sebelum batas waktu 22:00 WIB. |
+| **Repertoire & language** | Bahasa internal dialihkan dari tuduhan personal (*"Dia sengaja memperlambat pekerjaan saya"*) menjadi analisis masalah operasional (*"Apakah query loop ini benar-benar blocking di atas 30 concurrency?"*). |
+| **Response & adaptation** | Mengganti dorongan berdebat panjang di kolom komentar PR menjadi pengujian beban langsung di terminal. Begitu latensi terbukti melonjak ke 1.420ms, saya mengakui celah arsitektur secara lugas tanpa dalih. |
+| **Agreement/action** | Melaksanakan kesepakatan internal: tidak membalas sebelum ada data empiris, menyelesaikan refactoring *bulk execution* dalam 45 menit, dan melaporkan penurunan latensi ke 84ms di kolom komentar tepat pukul 21:40 WIB. |
+| **Relationship outcome** | Reviewer memberikan *approval* dengan catatan: *"Mitigasi cepat dan bukti ujinya jelas; PR approved."* Kolaborasi tim tetap terjaga solid tanpa friksi personal. |
+
+------------------------------------------------------------------------
+
+### Penggunaan AI
+
+- **Alat dan peran AI:** Menggunakan Gemini sebagai *partner* untuk menguji bias kognitif dan objektivitas argumen.
+- **Prompt atau instruksi penting:** *"Berikut komentar teknis yang saya terima: \[komentar anonim\]. Pisahkan bagian yang murni observasi teknis terhadap kode dan bagian yang berpotensi menjadi interpretasi asumtif saya sendiri."*
+- **Bagian output yang digunakan, diubah, atau ditolak:** Digunakan: pendekatan pembuktian berbasis angka/benchmark alih-alih adu argumen teoritis. Ditolak: saran AI untuk membuat dokumen RFC formal baru, karena dinilai *overkill* dan menghambat tenggat waktu sprint.
+- **Pemeriksaan accuracy, privacy, dan authority:** Seluruh nama rekan, nama proyek, API key, dan URL repositori disamarkan. Pseudocode dibuat generik. Keputusan refactoring sepenuhnya diverifikasi sendiri lewat uji coba terminal lokal.
+- **Apa yang tetap Anda pelajari sebagai manusia:** Keinginan membantah sering kali muncul bukan karena kode kita sudah sempurna, melainkan karena rasa tidak nyaman saat pekerjaan kita dikoreksi di depan orang lain.
+
+------------------------------------------------------------------------
+
+### Feedback dan tindak lanjut
+
+- **Feedback yang diterima:** Rekan tim menyampaikan melalui chat Discord: *"Pendekatan solusinya rapi, langsung ada data pembanding sebelum dan sesudah refactor."*
+- **Adaptation/replay:** Jika situasi serupa berulang, saya akan menyertakan metrik uji performa langsung pada deskripsi awal PR sebelum meminta reviu dari rekan tim.
+- **Next practice:** Menerapkan protokol jeda 15 menit dan verifikasi data mandiri sebelum merespons komentar berstatus *Request Changes*.
+
+------------------------------------------------------------------------
+
+### Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|:---------------------|:--------------------------:|:---------------------|
+| **Person & Character** | 4 | Pemisahan tegas antara ego *Code Protector* dan integritas teknis *Systems Engineer*. |
+| **Objective & State** | 3 | Ketegangan fisik sempat muncul di awal, namun kendali diri penuh berhasil dipulihkan sebelum merespons. |
+| **Repertoire, Language & AI** | 4 | Dialog internal berbasis verifikasi data; AI digunakan strictly untuk menyaring bias kognitif. |
+| **Response & Adaptation** | 4 | Menggeser reaksi defensif menjadi pembuktian empiris dan perbaikan kode nyata. |
+| **Agreement, Action & Relationship** | 3 | Komitmen internal tereksekusi tepat waktu; PR disetujui tanpa merusak hubungan kerja tim. |
+
+**Total: 18 / 20**
