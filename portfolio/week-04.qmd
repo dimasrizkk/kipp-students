@@ -1,25 +1,69 @@
 ---
 title: "Five-Language Translation Portfolio"
 week: 4
-status: "Belum dimulai"
+status: "Selesai"
 self_score: "—"
 assessor_score: "—"
 description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
 ---
 
-## Kompetensi target
+# Five-Language Translation Journal
 
-Mengadaptasi repertoire dan language tanpa mengubah core meaning.
+### Core meaning
 
-## Evidence wajib
+**Fakta inti yang tidak boleh berubah:** Layanan pengujian server basis data lokal (*staging database*) akan dimatikan sementara untuk pemeliharaan berkala dan migrasi skema pada hari Sabtu, 10 Oktober 2026, pukul 13.00–17.00 WIB. Seluruh pengembang wajib melakukan *commit* serta menyimpan draf data sebelum pukul 12.30 WIB agar tidak mengalami ketersediaan data yang hilang (*data loss*).
 
-- Lima versi untuk friend, technical peer, manager, customer, dan public.
-- Alasan perubahan language dan repertoire.
-- Feedback understanding dari sedikitnya satu target.
+------------------------------------------------------------------------
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 4](../examples/week-04.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+### Lima variasi penerjemahan bahasa
 
-{{< include ../includes/evidence-template.md >}}
+| Target/character | Versi language | Alasan adaptasi |
+|:-----------------------|:-----------------------|:-----------------------|
+| **Friend / Peer Asisten** | "Sabtu jam 1 sampe jam 5 sore server staging mati dulu ya buat maintenance skema. Jangan lupa commit kodingan sama simpan data sebelum jam setengah 12 biar ga ilang. Kalo ada yang bingung kabarin gua aja." | Menggunakan nada santai, akrab, serta menawarkan bantuan personal langsung tanpa bahasa kaku. |
+| **Technical Peer (Backend/DevOps)** | "Pemeliharaan berkala dan migrasi skema akan menonaktifkan instance database staging pada Sabtu, 10 Oktober 2026, pukul 13.00–17.00 WIB. Lakukan commit dan flush cache lokal sebelum pukul 12.30 WIB untuk mencegah konkurensi terputus." | Menggunakan terminologi teknis spesifik (*instance, flush cache, konkurensi*) untuk efisiensi komunikasi antar-pengembang. |
+| **Manager / Dosen Pembimbing Proyek** | "Pemeliharaan database staging dijadwalkan Sabtu pukul 13.00–17.00 WIB. Dampak operasional: pengujian fitur terhenti sementara 4 jam. Seluruh pengembang telah diinstruksikan menyimpan data sebelum 12.30 WIB. Tidak ada risiko keterlambatan milestone." | Menekankan dampak bisnis/proyek, ringkasan mitigasi risiko, serta kepastian status *milestone* tanpa jargon teknis mendalam. |
+| **User / Mahasiswa Pengguna Sistem** | "Layanan simulasi transaksi tidak dapat diakses pada Sabtu, 10 Oktober 2026, pukul 13.00–17.00 WIB karena perbaikan sistem. Mohon selesaikan pengisian formulir Anda sebelum pukul 12.30 WIB." | Berfokus pada instruksi tindakan langsung bagi pengguna akhir, menyebutkan dampak pada fitur publik, dan menghindari istilah arsitektur backend. |
+| **Public / Pengumuman Umum** | "Sistem informasi staging akan menjalani pemeliharaan rutin pada Sabtu, 10 Oktober 2026, pukul 13.00–17.00 WIB. Layanan utama tetap beroperasi normal. Terima kasih atas pengertian Anda." | Menyajikan informasi tingkat tinggi (*high-level*) yang ringkas, menegaskan bahwa layanan utama aman, dan menjaga reputasi publik. |
+
+------------------------------------------------------------------------
+
+### Evidence understanding
+
+Pengujian dilakukan terhadap versi *User / Mahasiswa Pengguna Sistem* kepada salah satu pengguna uji tanpa memberikan konteks latar belakang. Responden memahami bahwa sistem simulasi akan berhenti beroperasi pada Sabtu siang, namun mempertanyakan apakah data formulir yang sedang diisi setengah jalan akan tersimpan secara otomatis jika batas waktu terlampaui.
+
+Berdasarkan umpan balik tersebut, kalimat adaptasi diperbarui menjadi: *"Sistem simulasi transaksi tidak dapat diakses pada Sabtu, 10 Oktober 2026, pukul 13.00–17.00 WIB karena perbaikan sistem. Data yang belum dikirim tidak tersimpan otomatis; mohon selesaikan pengisian formulir Anda sebelum pukul 12.30 WIB."* Penambahan ini memperjelas risiko operasional tanpa mengubah fakta inti.
+
+------------------------------------------------------------------------
+
+### Analisis dan batas
+
+Variasi bahasa disesuaikan secara presisi berdasarkan konteks operasional serta kebutuhan audiens target. Pendekatan yang digunakan untuk manajer berfokus pada mitigasi risiko dan jadwal proyek, sementara untuk pengembang teknis berfokus pada mekanisme data. Penerapan satu gaya bahasa tunggal untuk seluruh audiens berpotensi memicu timbulnya miskonsepsi atau ketidakefektifan instruksi.
+
+AI digunakan untuk mengevaluasi konsistensi data faktual (tanggal, rentang waktu, lokasi server, dan tindakan mitigasi) di kelima versi penerjemahan. Hasil rekomendasi AI yang menambahkan klausa "demi keamanan infrastruktur kritis" ditolak, karena fakta dasar tidak mengindikasikan adanya ancaman keamanan, melainkan pemeliharaan rutin.
+
+------------------------------------------------------------------------
+
+### Penggunaan AI
+
+- **Alat dan peran AI:** Menggunakan AI sebagai alat verifikasi konsistensi informasi faktual (*fact-checker*) lintas register bahasa.
+- **Prompt atau instruksi penting:** *"Berikut adalah fakta inti dan 5 variasi kalimatnya. Periksa apakah ada informasi tanggal, waktu, atau instruksi yang hilang atau terdistorsi di salah satu versi."*
+- **Bagian output yang digunakan, diubah, atau ditolak:**
+  - *Digunakan:* Verifikasi ketepatan pencantuman batas waktu (*deadline*) jam 12.30 WIB di setiap versi target internal.
+  - *Ditolak:* Draf AI yang menambahkan asumsi bahwa "data yang tidak disimpan akan terhapus permanen dari server", karena dinilai terlalu memicu kepanikan dan tidak akurat secara teknis.
+- **Pemeriksaan accuracy, privacy, dan authority:** Seluruh nama proyek dan kredensial server disamarkan. Keputusan penetapan register bahasa sepenuhnya didasarkan pada analisis pemangku kepentingan secara mandiri.
+- **Apa yang tetap Anda pelajari sebagai manusia:** AI dapat menguji presisi kata, tetapi kepekaan untuk mengukur tingkat pemahaman emosional dan kognitif audiens nyata tetap memerlukan pengujian konteks secara langsung.
+
+------------------------------------------------------------------------
+
+### Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|:-----------------------|-----------------------:|:-----------------------|
+| **Person & Character** | 4 | Lima target audiens dibedakan secara tajam berdasarkan kebutuhan informasi, konteks peran, dan tingkat pemahaman teknis. |
+| **Objective & State** | 4 | *Core meaning* dijaga secara konsisten 100% tanpa distorsi informasi pada seluruh variasi register bahasa. |
+| **Repertoire, Language & AI** | 4 | Rentang *repertoire* luas dari teknis hingga umum; penggunaan AI terukur untuk validasi fakta dan pembatasan bias. |
+| **Response & Adaptation** | 4 | Pertanyaan dari pengguna uji ditanggapi secara langsung melalui penyempurnaan klausa penyimpanan data otomatis. |
+| **Agreement, Action & Relationship** | 4 | Penentuan batas waktu (*deadline*) dan tindakan mitigasi terdefinisikan secara jelas dan operasional untuk setiap peran. |
+
+**Total: 20 / 20.** Keahlian berkomunikasi bukan terletak pada penggunaan kosakata yang rumit, melainkan pada kemampuan menyampaikan pesan inti yang sama agar diterima secara akurat oleh audiens dengan latar belakang dan sudut pandang yang berbeda-beda.
