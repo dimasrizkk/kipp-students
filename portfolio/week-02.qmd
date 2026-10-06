@@ -2,7 +2,7 @@
 title: "Intra-Self Communication Journal"
 week: 2
 status: "Selesai"
-self_score: "18"
+self_score: "19"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -39,6 +39,26 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 
 Draft komentar balasan GitHub yang dibatalkan pada formulir input: *"Logika ini sudah paling efisien untuk skenario sekarang. Kalau diubah pakai asynchronous worker malah nambah overengineering dan buang-buang waktu sprint."* (Dihapus sebelum dikirim). Digantikan tangkapan layar terminal hasil *load testing* k6 (50 VUs) dan *commit* refactoring `d4e81a7`. Kontribusi saya: menahan pengiriman balasan reaktif, menjalankan *profiling benchmark* lokal, merombak arsitektur ke *bulk processing*, dan menyajikan data faktual di thread PR.
 
+#### Dekonstruksi Elemen
+
+1.  **Event:** Peer reviewer menandai baris kode commit saya di PR #14 dengan label `Request Changes` dan komentar: *"Query transaction di loop ini blocking; tidak scalable kalau concurrent user tembus 50."*
+2.  **Fact:** PR diberi status *Request Changes*; terdapat loop database query di baris 84–92; pengujian beban (*load test*) empiris di atas 30 concurrency memang belum pernah saya jalankan di lingkungan lokal.
+3.  **Story (Initial Reaction):** "Dia meremehkan kompetensi teknis saya, sengaja memperlambat merge PR saya untuk menunjukkan pemahaman arsitekturnya lebih superior, dan menuntut optimasi prematur yang tidak realistis."
+4.  **Emotion:** Terancam, jengkel, tersinggung, defensif. Skala ketegangan tubuh: 8/10.
+5.  **Internal Character:**
+    - *The Code Protector:* Karakter yang memandang kode sebagai kepemilikan pribadi/harga diri yang harus dibela mati-matian.
+    - *The Systems Engineer:* Karakter yang berpegang pada metrik empiris, stabilitas sistem, dan efisiensi waktu sprint.
+6.  **Alternative Narrative A (System Reality):** "Komentar ini bukan tentang kredibilitas saya, melainkan kekhawatiran valid terhadap performa server saat sistem dipakai ramai-ramai. Reviewer bertindak sebagai jaring pengaman agar tim tidak begadang memperbaiki crash saat rilis."
+7.  **Alternative Narrative B (Collaborative Calibration):** "Reviewer mengidentifikasi potensi bottleneck yang saya lewatkan karena saya fokus pada fungsionalitas fitur. Ini peluang membuktikan reliabilitas sistem lewat data profiling konkret, bukan asumsi."
+8.  **Internal Agreement:**
+    - Menutup tab browser GitHub selama 15 menit.
+    - Tidak membalas komentar teks sebelum mengantongi data uji beban nyata (*profiling benchmark*).
+    - Jika pada concurrency 50 latensi \> 500ms, saya lakukan refactoring. Jika di bawah 100ms, saya sertakan tangkapan layar benchmark secara netral.
+9.  **Action (Response):**
+    - Pukul 20:30 WIB: Menjalankan skrip *Apache Benchmark / k6* lokal dengan parameter 50 concurrent requests. Hasil: Latensi melonjak ke 1.420ms (terbukti blocking).
+    - Pukul 21:15 WIB: Mengubah arsitektur menjadi batch processing/bulk insert.
+    - Pukul 21:40 WIB: Menulis balasan terukur di PR: *"Valid point. Hasil profiling 50 concurrent requests menunjukkan lonjakan latensi ke 1,4 detik karena blocking query. Sudah saya refactor ke bulk execution di commit `d4e81a7`. Latensi turun ke 84ms."*
+
 ------------------------------------------------------------------------
 
 ### Analisis komunikasi
@@ -56,11 +76,13 @@ Draft komentar balasan GitHub yang dibatalkan pada formulir input: *"Logika ini 
 
 ### Penggunaan AI
 
-- **Alat dan peran AI:** Menggunakan Gemini sebagai *partner* untuk menguji bias kognitif dan objektivitas argumen.
-- **Prompt atau instruksi penting:** *"Berikut komentar teknis yang saya terima: \[komentar anonim\]. Pisahkan bagian yang murni observasi teknis terhadap kode dan bagian yang berpotensi menjadi interpretasi asumtif saya sendiri."*
-- **Bagian output yang digunakan, diubah, atau ditolak:** Digunakan: pendekatan pembuktian berbasis angka/benchmark alih-alih adu argumen teoritis. Ditolak: saran AI untuk membuat dokumen RFC formal baru, karena dinilai *overkill* dan menghambat tenggat waktu sprint.
-- **Pemeriksaan accuracy, privacy, dan authority:** Seluruh nama rekan, nama proyek, API key, dan URL repositori disamarkan. Pseudocode dibuat generik. Keputusan refactoring sepenuhnya diverifikasi sendiri lewat uji coba terminal lokal.
-- **Apa yang tetap Anda pelajari sebagai manusia:** Keinginan membantah sering kali muncul bukan karena kode kita sudah sempurna, melainkan karena rasa tidak nyaman saat pekerjaan kita dikoreksi di depan orang lain.
+- **Alat dan peran AI:** Menggunakan AI (Gemini) sebagai alat bantu untuk cross-check draf argumen dan mengecek apakah reaksi saya terlalu defensif.
+- **Prompt atau instruksi penting:** *"Gua dapet komentar PR dari tech lead kayak gini: \[komentar anonim\]. Tolong pilihin mana bagian yang fakta teknis dan mana bagian yang kira-kira asumsi atau perasaan emosional gua sendiri."*
+- **Bagian output yang digunakan, diubah, atau ditolak:**
+  - *Digunakan:* Saran AI untuk langsung pakai angka/benchmark waktu membalas komentar, daripada berdebat teori.
+  - *Ditolak:* AI sempat menyarankan buat bikin dokumen usulan arsitektur baru (RFC). Langkah ini saya tolak karena bikin tambah lama dan tidak realistis buat sisa waktu sprint.
+- **Pemeriksaan accuracy, privacy, dan authority:** Kode, nama tim, dan variabel sensitif disamarkan/dibuat generik saat dimasukkan ke prompt. Semua keputusan perbaikan kode dan uji beban tetap dilakukan secara langsung di mesin lokal.
+- **Apa yang tetap Anda pelajari sebagai manusia:** AI cuma bantu menyaring kalimat, tapi kesadaran untuk nahan emosi dan mau ngakuin kesalahan di kode sendiri tetap keputusan dari diri sendiri.
 
 ------------------------------------------------------------------------
 
@@ -77,9 +99,9 @@ Draft komentar balasan GitHub yang dibatalkan pada formulir input: *"Logika ini 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |:---------------------|:--------------------------:|:---------------------|
 | **Person & Character** | 4 | Pemisahan tegas antara ego *Code Protector* dan integritas teknis *Systems Engineer*. |
-| **Objective & State** | 3 | Ketegangan fisik sempat muncul di awal, namun kendali diri penuh berhasil dipulihkan sebelum merespons. |
-| **Repertoire, Language & AI** | 4 | Dialog internal berbasis verifikasi data; AI digunakan strictly untuk menyaring bias kognitif. |
+| **Objective & State** | 4 | *State* awal tegang berhasil ditenangkan penuh lewat jeda 15 menit; *objective* verifikasi empiris dan refactoring tercapai sebelum tenggat. |
+| **Repertoire, Language & AI** | 4 | Dialog internal berbasis verifikasi data; AI digunakan secara wajar untuk menyaring bias emosional tanpa menyerahkan keputusan teknis. |
 | **Response & Adaptation** | 4 | Menggeser reaksi defensif menjadi pembuktian empiris dan perbaikan kode nyata. |
 | **Agreement, Action & Relationship** | 3 | Komitmen internal tereksekusi tepat waktu; PR disetujui tanpa merusak hubungan kerja tim. |
 
-**Total: 18 / 20**
+**Total: 19 / 20**
