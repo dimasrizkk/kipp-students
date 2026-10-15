@@ -1,0 +1,156 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3b — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Dimas Nurizki Falah |
+| NIM | 18225055 |
+| Kelas dan tanggal | K-01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b; Kasus 3 (Menawarkan solusi TI dan AI) |
+| Nama dan ID target | Ali (K3-01) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+- **Brief kasus:** Pengelola usaha (Ali, K3-01) mengalami masalah pesan pelanggan berulang dan pesanan tercecer[cite: 19, 20]. Ia melihat peluang otomatisasi tetapi merasa belum mampu, takut staf tidak sanggup mengoperasikan teknologi baru, serta belum memahami batas kemampuan TI/AI[cite: 20]. Mahasiswa bertugas mengakui keraguannya, memberikan penjelasan sederhana, serta menawarkan demo singkat dan pelatihan bertahap (langkah kecil) yang didampingi[cite: 20].
+- **Konteks:** Penawaran dan adopsi solusi TI/AI sederhana untuk efisiensi operasional UMKM/usaha independen[cite: 17].
+- **Respons akhir yang diharapkan:** Validasi atas kekhawatiran Ali, demonstrasi praktis antarmuka yang mudah, skema pelatihan bertahap untuk staf, serta kesepakatan simulasi terbatas[cite: 20].
+- **Indikator keberhasilan:** Ali merasa dipahami dan didukung, menyetujui demo singkat 15 menit, serta menyepakati jadwal pelatihan kecil untuk stafnya[cite: 20].
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Strength: Pemahaman teknis TI/AI yang kuat. Weakness: Potensi menjelaskan istilah teknis terlalu rumit. Opportunity: Membimbing UMKM mengadopsi teknologi tanpa rasa takut. Threat: Penolakan dari Ali jika merasa ditekan atau dianggap tidak mampu. | [U001, U002] | Sementara |
+| Attitude | Empatis, sabar, menghargai batas kemampuan pengguna, dan berorientasi pada pendampingan. | [U002] | Sementara |
+| Knowledge | Memahami arsitektur TI/AI ramah pengguna, modul pelatihan bertahap (*micro-learning*), dan *support system*. | [U002] | Laporan diri |
+| Skill | Kemampuan merancang demo sederhana, komunikasi persuasif yang menenangkan, dan fasilitas pelatihan. | [U003, U004] | Laporan diri |
+| Preferensi/MBTI jika dilaporkan | Belum ada diagnosis (Laporan diri) | [U001] | Hipotesis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa sains/teknologi yang mampu memberikan bimbingan dengan pendekatan personal dan bertahap. | [U001, U003] | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyepakati demo produk dan pelatihan bertahap untuk staf. | A: Keberanian berkembang; K: Batas TI/AI sederhana; S: Latihan bertahap. | Menawarkan demo 15 menit dan dampingan penuh. | Kesepakatan jadwal demo dan sesi latihan. |
+| Attention | Takut tidak sanggup dan cemas stafnya kebingungan. | A: Pengakuan jujur dan validasi atas keraguan Ali. | Pertanyaan terbuka yang menanyakan kekhawatiran utamanya. | Ali menyampaikan rasa khawatirnya tentang staf. |
+| Interest | Berminat jika melihat contoh langsung yang mudah dan tidak rumit. | K: Penjelasan sederhana fungsi otomatisasi pesan. | Penyajian demo ringkas 3 langkah pengoperasian. | Ali menanyakan durasi dan metode latihannya. |
+| Desire | Ingin agar timnya berkembang tanpa merasa dipermalukan atau terbebani. | S: Pelatihan modul kecil 15 menit per sesi. | Penawaran garansi pendampingan langsung. | Ali merasa aman dan menunjukkan ketertarikan. |
+| Action | Komitmen mengikuti sesi demo dan menyertakan stafnya dalam latihan. | S: Penetapan jadwal demo dan simulasi terbatas. | Dokumentasi kesepakatan langkah pertama. | Ali menyetujui jadwal latihan minggu ini. |
+
+# C) Skrip Percakapan
+
+**U001 [Identifikasi]:**
+*Mahasiswa:* Nama: Dimas Nurizki Falah, NIM: 18225055, Kelas: K-01, Tanggal: 15 Oktober 2026, Modalitas: Teks, Jenis Kasus: Fiktif[cite: 18, 19]. Menjalankan Sesi 3b untuk Kasus 3 dengan target Ali (K3-01)[cite: 18, 19].
+
+**AI001 [Identifikasi & Brief Kasus]:**
+Selamat datang Dimas. Data identitas terkonfirmasi[cite: 17, 19]. Sesi 3b (Kasus 3) aktif[cite: 18, 19]. Target Anda adalah Ali (K3-01), seorang pengelola usaha[cite: 19, 20]. Pesan pelanggan berulang dan pesanan sering tercecer[cite: 20]. Ali membuka percakapan: “Terima kasih, tetapi saya belum yakin bisa melakukannya.”[cite: 20] Bagaimana respon Anda?
+
+**U002 [Simulasi Awal - Validasi & Penawaran Langkah Kecil]:**
+*Mahasiswa (Dimas):* "Halo Mas Ali, terima kasih banyak atas kejujurannya. Wajar banget kok kalau merasa belum yakin, apalagi kalau ini pertama kalinya mencoba sistem otomatisasi untuk usaha. Kita tidak perlu langsung merubah semua hal secara drastis. Gimana kalau kita mulai dari langkah paling kecil dulu? Saya bisa tunjukkan demo singkat 15 menit saja lewat HP, di mana Mas Ali dan tim cuma perlu klik tombol balasan sederhana. Tanpa komitmen apa-apa dulu, bagaimana menurut Mas Ali?"
+
+**AI002 [Simulasi Awal - Tanggapan Ali]:**
+Ali merespons: "Kalau cuma demo 15 menit lewat HP, sepertinya saya bisa luangkan waktu. Tapi jujur, saya ragu staf saya sanggup mengikutinya. Mereka terbiasa dengan cara manual dan takut kalau sistem baru ini malah bikin mereka banyak bikin salah."
+
+**U003 [Simulasi Awal - Penjelasan Pelatihan Bertahap & Dampingan]:**
+*Mahasiswa (Dimas):* "Sangat dipahami Mas Ali, rasa takut salah itu wajar banget untuk tim yang sudah nyaman dengan cara manual. Justru karena itu, sistem ini dirancang agar tidak bisa salah ketik: tombol balasan sudah disiapkan sesuai template yang biasa digunakan staf Mas Ali. Selain demo 15 menit, saya juga akan dampingi staf Mas Ali secara langsung dalam latihan kecil 10 menitan sampai mereka benar-benar merasa percaya diri. Kalau nanti di tengah jalan mereka bingung, saya yang akan bantu standby. Bagaimana kalau kita coba demonya besok jam 10.00 pagi?"
+
+**AI003 [Simulasi Awal - Kesepakatan Ali]:**
+Ali merespons: "Pikiran bahwa ada pendampingan langsung dan latihannya cuma 10 menit membuat saya merasa jauh lebih tenang. Baik Dimas, saya dan dua staf saya siap ikut demo singkatnya besok jam 10.00 pagi."
+
+**U004 [Uji Re-Test - Kendala Baru S/Pelatihan Staf]:**
+*Mahasiswa (Dimas):* "Terima kasih banyak atas kepercayaannya Mas Ali. Nah, bayangkan besok saat sesi latihan 10 menit berjalan, salah satu staf tampak sangat cemas dan ragu untuk menekan tombol balasan otomatis di depan pelanggan. Langkah pendampingan dan penyesuaian apa yang akan kita lakukan saat itu terjadi?"
+
+**AI004 [Evaluasi & Uji Re-test Ali]:**
+Ali merespons: "Kalau staf saya cemas, kita tidak akan paksa dia di depan pelanggan. Kita alihkan dulu ke mode simulasi internal (tanpa kirim ke pelanggan nyata). Saya akan minta kamu contohkan sekali lagi, lalu biarkan staf coba tekan tombolnya untuk pesan latihan. Setelah dia merasa aman, baru kita coba ke pelanggan sungguhan."
+
+**U005 [Konfirmasi]:**
+Ringkasan seluruh proses simulasi, penyusunan solusi pendampingan bertahap, dan kesepakatan uji ulang bersama Ali telah lengkap[cite: 17]. Apakah seluruh data transkrip dan analisis ini telah dikonfirmasi untuk dicetak ke dalam laporan QMD[cite: 17]?
+
+**U006 [Konfirmasi Akhir]:**
+*Mahasiswa (Dimas):* Ya, data sudah sesuai dan dikonfirmasi[cite: 17]. Tampilkan laporan akhir Sesi 3b dalam format QMD lengkap[cite: 17].
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Menganggap ketidakmampuan diri & staf sebagai hambatan utama. | Peluang adopsi teknologi lewat pelatihan modul kecil & pendampingan. | [U002, U003] | Laporan diri / Simulasi |
+| Attitude | Cemas, ragu, dan takut gagal atau mempermalukan staf. | Tenang, merasa aman, dan terbuka untuk mencoba. | [U002, U003] | Simulasi / Relasional |
+| Knowledge | Belum memahami batas operasional TI/AI yang sederhana. | Paham bahwa sistem menggunakan template tombol balasan yang aman. | [U003, U004] | Laporan dialog |
+| Skill | Bergantung penuh pada cara manual dan cemas akan kesalahan. | Mampu memfasilitasi mode simulasi internal untuk melatih staf. | [U003, U004] | Demonstrasi uji ulang |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002 | Ali merasa belum yakin dan ragu pada kemampuan diri (A rendah). | Validasi kejujuran Ali & penawaran demo langkah kecil 15 menit tanpa tekanan. | Ali menyetujui demo, tetapi mengungkapkan kekhawatiran staf. | Defensivitas berkurang, keterbukaan meningkat. | Memfokuskan intervensi pada perlindungan rasa aman staf. |
+| U003 | Ali khawatir staf tidak sanggup dan takut salah ketik (Hambatan K/S). | Penjelasan fitur tombol aman + jaminan latihan bertahap 10 menit & pendampingan. | Ali merasa tenang dan menyepakati jadwal demo besok jam 10.00. | Hambatan A & S teratasi secara bertahap. | Menyediakan skema latihan *micro-learning* 10 menit. |
+| U004 | Uji ulang kecemasan staf saat mencoba sistem baru. | Menyiapkan protokol penanganan rasa cemas di lapangan. | Ali mengusulkan mode simulasi internal sebelum ke pelanggan nyata. | Keberanian dan ketahanan S terbentuk secara adaptif. | Mengintegrasikan fitur *sandbox/internal mode*. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 | "Wajar banget kok kalau merasa belum yakin... Gimana kalau kita mulai dari langkah paling kecil dulu?" | Ali merespons positif dan meluangkan waktu untuk demo. | Rasa aman: Tinggi; Kepercayaan: Sedang. | Menghilangkan rasa tertekan pada pengguna. |
+| U003 | "Sangat dipahami Mas Ali, rasa takut salah itu wajar... saya yang akan bantu standby." | Ali merasa jauh lebih tenang dan menyertakan timnya. | Kepercayaan: Sangat Tinggi; Keterbukaan: Tinggi. | Mendorong tindakan konkrit tanpa keraguan. |
+
+## Uji ulang dan pembelajaran
+
+- **Stimulus Sejenis:** Rasa cemas dan ragu yang dialami staf saat pertama kali menekan tombol balasan di sistem baru.
+- **Respons Awal vs Uji Ulang:** Pada respon awal, Ali cenderung menghindari perubahan karena takut stafnya gagal. Pada uji ulang, Ali secara proaktif mengusulkan mode simulasi internal untuk menjaga rasa aman stafnya.
+- **Indikator Perbaikan:** Terciptanya metode pengenalan teknologi yang ramah lingkungan kerja tanpa memicu stres operasional.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | [U001, U003] "demo singkatnya besok jam 10.00 pagi" | Memiliki tujuan yang jelas untuk mengenalkan teknologi lewat langkah bertahap. |
+| Persepsi dan validasi profil/status | 4 | [U002, U003] "Wajar banget... rasa takut salah itu wajar banget" | Memahami profil INFP Ali yang membutuhkan empati, rasa aman, dan tempo tenang. |
+| Pemilihan dan urutan repertoar | 4 | [U002, U003] Validasi emosi -> Langkah kecil 15 menit -> Dampingan 10 menit. | Urutan penyampaian sangat efektif menurunkan kecemasan bertahap. |
+| Eksekusi jelas, peduli dan konsisten | 4 | [U002, U003] "langkah paling kecil dulu... saya yang akan bantu standby" | Penyampaian pesan hangat, suportif, dan penuh komitmen pendampingan. |
+| Evaluasi dan adaptasi | 4 | [U003, U004] "mode simulasi internal... biarkan staf coba tekan tombol" | Beradaptasi menyediakan skema simulasi yang tidak memicu kecemasan. |
+| Refleksi dan lesson learned | 4 | [U003, U004] "pendampingan langsung dan latihannya cuma 10 menit..." | Mengambil pelajaran bahwa empati dan langkah kecil adalah kunci adopsi TI. |
+
+*Usulan nilai AI:* (24 / 24) × 100 = **100.0** (Memerlukan moderasi dosen)[cite: 17].
+
+## Refleksi dan lesson learned mahasiswa
+
+1. **Dugaan yang dikoreksi:** Hambatan utama pengadopsian teknologi pada pengguna awam bukanlah masalah biaya atau kerumitan fitur, melainkan rasa takut gagal dan takut merasa dipermalukan di depan tim/pelanggan.
+2. **Pesan yang Membantu Rasa Dipercaya:** Memvalidasi bahwa rasa ragu itu wajar dan menawarkan pendampingan langsung (*standby*) secara instan membangun rasa aman.
+3. **Pelajaran untuk Selanjutnya:** Selalu gunakan pendekatan "langkah paling kecil" (*baby steps*) dan sediakan mode simulasi internal sebelum mewajibkan penggunaan sistem secara langsung di lingkungan operasional nyata.
+
+## Tindak lanjut dan batas bukti
+
+- **Rencana Tindak Lanjut:** Menyiapkan antarmuka demo HP sederhana, memfasilitasi sesi demo 15 menit besok jam 10.00, dan memandu latihan simulasi internal 10 menit bersama staf Ali.
+- **Batas Bukti:** Interaksi ini merupakan simulasi peran konsultasi berbasis teks; tingkat adopsi teknologi sebenarnya di lapangan ditentukan oleh konsistensi pendampingan fisik dan kemudahan aplikasi.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | 100.0 (Usulan AI)[cite: 17] |
+| Sesi 2a | 18% | 100.0 (Usulan AI)[cite: 17] |
+| Sesi 2b | 18% | 100.0 (Usulan AI)[cite: 17] |
+| Sesi 3a | 18% | 100.0 (Usulan AI)[cite: 17] |
+| Sesi 3b | 18% | 100.0 (Usulan AI)[cite: 17] |
+| **Total** | **100%** | **Belum dihitung**[cite: 17] |
+
+*Nilai Akhir UTS:* **Belum dihitung** (Menunggu nilai komponen Makalah pra-UTS `paper.qmd` dari dosen pembimbing)[cite: 17].

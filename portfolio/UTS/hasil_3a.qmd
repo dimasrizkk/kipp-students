@@ -1,0 +1,156 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Dimas Nurizki Falah |
+| NIM | 18225055 |
+| Kelas dan tanggal | K-01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 (Menawarkan solusi TI dan AI) |
+| Nama dan ID target | Elsa (K3-05) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+- **Brief kasus:** Pengelola usaha (Elsa, K3-05) menangani pertanyaan pelanggan berulang dan pesanan tercecer, tenaga terbatas, namun belum yakin memerlukan solusi AI karena takut layanan kehilangan sentuhan personal dan membingungkan staf. Mahasiswa bertugas menggali kebutuhan, menjelaskan batas otomatisasi serta alur eskalasi manusia, serta menawarkan uji coba sistem TI/AI yang ramah pengguna.
+- **Konteks:** Otomatisasi operasional layanan pelanggan dan pencatatan pesanan untuk UMKM/usaha independen.
+- **Respons akhir yang diharapkan:** Validasi kepedulian Elsa terhadap sentuhan personal layanan, penjelasan skema AI sebagai asisten penyaring (bukan pengganti manusia), alur eskalasi ke staf, serta kesepakatan uji coba terbatas.
+- **Indikator keberhasilan:** Elsa merasa nilai layanannya dihormati, memahami alur eskalasi ke staf manusia, dan menyetujui jadwal simulasi/uji coba otomatisasi pesan berulang selama 1 minggu.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Strength: Mampu merancang alur TI/AI terstruktur. Weakness: Potensi terlalu berfokus pada fitur teknis ketimbang empati layanan. Opportunity: Membantu efisiensi operasional tanpa mengorbankan kualitas relasi pelanggan. Threat: Penolakan customer jika sistem dianggap merusak *customer experience*. | [U001, U002] | Sementara |
+| Attitude | Suportif, menghargai kehangatan hubungan bisnis-pelanggan, dan berorientasi pada kemudahan pengoperasian. | [U002] | Sementara |
+| Knowledge | Memahami integrasi *chat/CRM automation*, skema *human-in-the-loop*, dan alur eskalasi manual. | [U002] | Laporan diri |
+| Skill | Kemampuan penjelasan TI non-teknis, pemetaan alur kerja eskalasi, dan pendampingan uji coba. | [U003, U004] | Laporan diri |
+| Preferensi/MBTI jika dilaporkan | Belum ada diagnosis (Laporan diri) | [U001] | Hipotesis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa sains/teknologi yang mampu menerjemahkan solusi teknis menjadi manfaat bisnis yang ramah. | [U001, U003] | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyepakati uji coba sistem otomatisasi pesan & eskalasi staf. | A: Kehangatan layanan; K: Alur eskalasi; S: Pelatihan staf. | Menjelaskan skema AI sebagai penyaring FAQ awal. | Kesepakatan pilot project 1 minggu. |
+| Attention | Khawatir otomatisasi membuat pelanggan merasa diabaikan/kaku. | A: Reassurance pentingnya sentuhan manusia. | Pertanyaan eksploratif terkait pertanyaan berulang terbanyak. | Elsa membagikan keluhan operasionalnya. |
+| Interest | Berminat jika AI hanya menjawab FAQ dan langsung mengarahkan pertanyaan kompleks ke staf. | K: Penjelasan diagram eskalasi *human-in-the-loop*. | Demonstrasi skenario balasan cepat FAQ. | Elsa menanyakan alur kerja stafnya. |
+| Desire | Ingin beban staf berkurang tanpa kehilangan keakraban pelanggan. | S: Pendampingan pelatihan & skema *hybrid*. | Penawaran modul latihan singkat untuk staf. | Elsa menyatakan ketertarikan uji coba. |
+| Action | Komitmen memulai simulasi sistem otomatisasi pesan terintegrasi. | S: Pelaksanaan *trial* 7 hari dengan pendampingan langsung. | Penjadwalan sesi *onboarding* dan *monitoring*. | Elsa menyetujui jadwal simulasi. |
+
+# C) Skrip Percakapan
+
+**U001 [Identifikasi]:**
+*Mahasiswa:* Nama: Dimas Nurizki Falah, NIM: 18225055, Kelas: K-01, Tanggal: 15 Oktober 2026, Modalitas: Teks, Jenis Kasus: Fiktif[cite: 13, 15]. Menjalankan Sesi 3a untuk Kasus 3 dengan target Elsa (K3-05)[cite: 13, 15].
+
+**AI001 [Identifikasi & Brief Kasus]:**
+Selamat datang Dimas. Data identitas terkonfirmasi[cite: 13, 15]. Sesi 3a (Kasus 3) aktif[cite: 13, 15]. Target Anda adalah Elsa (K3-05), seorang pengelola usaha[cite: 15, 16]. Pesan pelanggan berulang dan pesanan sering tercecer[cite: 16]. Elsa membuka percakapan: “Saya khawatir orang lain justru kesulitan kalau kita mengubah ini.”[cite: 16] Bagaimana respon Anda?
+
+**U002 [Simulasi Awal - Validasi & Pengenalan Konsep Hybrid]:**
+*Mahasiswa (Dimas):* "Halo Bu Elsa, terima kasih banyak sudah menyampaikan kekhawatiran yang sangat krusial ini. Saya sangat mengagumi komitmen Ibu dalam menjaga kehangatan dan sentuhan personal bagi para pelanggan. Tujuan kita menerapkan teknologi di sini sama sekali bukan untuk menggantikan peran Ibu atau staf, melainkan sebagai 'asisten depan' yang menangani pertanyaan berulang seperti jam buka atau price list. Dengan begitu, pertanyaan spesifik dan pelanggan penting bisa tetap disapa langsung oleh Ibu dengan lebih tenang tanpa kelelahan. Bagaimana kalau kita rancang alur di mana AI hanya menjawab FAQ dasar, dan sisanya langsung diteruskan ke staf?"
+
+**AI002 [Simulasi Awal - Tanggapan Elsa]:**
+Elsa merespons: "Pencegahan supaya pelanggan tidak merasa bicara dengan robot itu yang paling penting buat saya. Tapi kalau pesan dialihkan ke staf, bagaimana mekanismenya supaya staf saya yang tidak begitu terbiasa dengan sistem baru tidak kebingungan menanggapinya?"
+
+**U003 [Simulasi Awal - Penjelasan Eskalasi & Pendampingan Pelatihan]:**
+*Mahasiswa (Dimas):* "Penjelasan yang sangat baik Bu Elsa. Mekanismenya dirancang sangat sederhana: Staf Ibu tidak perlu belajar aplikasi rumit baru, mereka cukup menerima notifikasi di WhatsApp/dashboard biasa berupa ringkasan nama pelanggan dan pesan khususnya. Begitu notifikasi masuk, staf tinggal mengetik balasan langsung seperti biasa. Untuk memastikan staf tidak bingung, saya pribadi akan memberikan sesi latihan singkat selama 30 menit dan mendampingi hari pertama penggunaan. Kita bisa coba dulu selama 7 hari tanpa mengubah sistem utama Ibu. Bagaimana menurut Ibu?"
+
+**AI003 [Simulasi Awal - Kesepakatan Elsa]:**
+Elsa merespons: "Kalau ada pendampingan langsung dan staf saya cuma perlu pakai antarmuka yang biasa mereka gunakan, saya merasa lebih tenang. Solusi hybrid ini masuk akal. Baik Dimas, saya setuju untuk mencoba simulasi 7 hari mulai Senin depan."
+
+**U004 [Uji Re-Test - Kendala Baru S/Jalur Layanan Manusia]:**
+*Mahasiswa (Dimas):* "Terima kasih atas kepercayaannya Bu Elsa. Nah, bayangkan pada hari kedua uji coba, ada lonjakan pesan di jam makan siang sehingga notifikasi eskalasi ke staf menumpuk dan staf kewalahan merespons. Langkah dan penyesuaian sistem apa yang akan kita eksekusi saat itu terjadi?"
+
+**AI004 [Evaluasi & Uji Re-test Elsa]:**
+Elsa merespons: "Jika terjadi penumpukan jam makan siang, sistem akan otomatis mengirimkan pesan peneduh: 'Terima kasih, pesan Anda sudah diterima staf kami dan akan dibalas dalam 10-15 menit'. Di saat yang sama, saya akan turun tangan membantu memegang dashboard eskalasi, dan kita bisa menyesuaikan template jawaban cepat untuk pertanyaan lonjakan tersebut."
+
+**U005 [Konfirmasi]:**
+Ringkasan seluruh proses simulasi, penyusunan solusi TI/AI *hybrid*, dan kesepakatan uji ulang bersama Elsa telah lengkap[cite: 13]. Apakah seluruh data transkrip dan analisis ini telah dikonfirmasi untuk dicetak ke dalam laporan QMD[cite: 13]?
+
+**U006 [Konfirmasi Akhir]:**
+*Mahasiswa (Dimas):* Ya, data sudah sesuai dan dikonfirmasi[cite: 13]. Tampilkan laporan akhir Sesi 3a dalam format QMD lengkap[cite: 13].
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Merasa perubahan teknologi sebagai ancaman kualitas layanan. | Peluang efisiensi operasional lewat solusi *hybrid* AI–manusia. | [U002, U003] | Laporan diri / Simulasi |
+| Attitude | Cemas layanan menjadi kaku dan staf kebingungan. | Merasa aman, tenang, dan antusias melakukan uji coba. | [U002, U003] | Simulasi / Relasional |
+| Knowledge | Belum memahami skema eskalasi pesan ke petugas manusia. | Paham penuh alur *human-in-the-loop* dan penanganan FAQ. | [U003, U004] | Laporan dialog |
+| Skill | Terbiasa dengan cara manual dan rentan pesanan tercecer. | Mampu mengelola dashboard eskalasi & skema pesan peneduh. | [U003, U004] | Demonstrasi uji ulang |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002 | Elsa ragu pada otomatisasi (A rendah/takut layanan kaku). | Validasi nilai empati Elsa & penawaran peran AI sebagai penyaring FAQ. | Elsa terbuka membahas mekanisme eskalasi ke staf. | Defensivitas berkurang, pemahaman alur meningkat. | Mendorong narasi AI sebagai pendukung, bukan pengganti. |
+| U003 | Elsa khawatir staf kebingungan operasional (Hambatan S). | Penjelasan antarmuka yang familiar + jaminan latihan 30 menit & pendampingan. | Elsa menyetujui simulasi 7 hari mulai Senin depan. | Hambatan S teratasi dengan garansi pendampingan. | Memberikan jaminan *onsite/online support* langsung. |
+| U004 | Uji ulang situasi lonjakan pesan di jam sibuk. | Penyiapan mekanisme mitigasi antrean pesan. | Elsa mengusulkan pesan peneduh & pembagian tugas staf. | Ketahanan operasional S terbentuk secara adaptif. | Mengintegrasikan fitur *auto-responder buffer time*. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 | "Saya sangat mengagumi komitmen Ibu dalam menjaga kehangatan dan sentuhan personal..." | Elsa merespons dengan tenang tanpa memotong pembicaraan. | Rasa aman: Tinggi; Kepercayaan: Sedang. | Menyelaraskan tujuan teknologi dengan nilai bisnis customer. |
+| U003 | "Saya pribadi akan memberikan sesi latihan singkat... dan mendampingi hari pertama..." | Elsa merasa sangat tenang dan langsung memberikan komitmen jadwal. | Kepercayaan: Sangat Tinggi; Keterbukaan: Tinggi. | Menuntaskan keraguan S secara definitif. |
+
+## Uji ulang dan pembelajaran
+
+- **Stimulus Sejenis:** Penumpukan notifikasi eskalasi akibat lonjakan pesan pelanggan pada jam sibuk operasional.
+- **Respons Awal vs Uji Ulang:** Pada respon awal, Elsa cemas teknologi akan mengacaukan alur kerja. Pada uji ulang, Elsa secara proaktif memanfaatkan pesan peneduh otomatis dan pembagian peran darurat.
+- **Indikator Perbaikan:** Terciptanya skema penanganan *overload* pesan yang terintegrasi antara sistem otomatis dan respons fleksibel pengelola.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | [U001, U003] "mencoba simulasi 7 hari mulai Senin depan" | Memiliki sasaran bisnis yang jelas untuk efisiensi tanpa mengorbankan relasi. |
+| Persepsi dan validasi profil/status | 4 | [U002, U003] "mengagumi komitmen Ibu... staf tidak perlu belajar aplikasi rumit" | Memahami kepedulian profil ISFJ Elsa terhadap kehangatan layanan & staf. |
+| Pemilihan dan urutan repertoar | 4 | [U002, U003] Validasi kehangatan -> Konsep Hybrid -> Garansi pendampingan. | Alur penjelasan teknis berkesinambungan dan tidak menekan. |
+| Eksekusi jelas, peduli dan konsisten | 4 | [U002, U003] "kemudahan pengoperasian... pendampingan hari pertama" | Menyampaikan pesan secara santun, profesional, dan akomodatif. |
+| Evaluasi dan adaptasi | 4 | [U003, U004] "pesan peneduh... membantu memegang dashboard" | Beradaptasi cepat menyediakan solusi mitigasi lonjakan operasional. |
+| Refleksi dan lesson learned | 4 | [U003, U004] "solusi hybrid ini masuk akal..." | Mengambil pelajaran pentingnya *human-centered design* dalam penjualan TI. |
+
+*Usulan nilai AI:* (24 / 24) × 100 = **100.0** (Memerlukan moderasi dosen)[cite: 13].
+
+## Refleksi dan lesson learned mahasiswa
+
+1. **Dugaan yang dikoreksi:** Penjualan solusi TI/AI kepada pemilik usaha kecil tidak boleh berfokus pada kecanggihan algoritma, melainkan pada bagaimana teknologi tersebut melindungi nilai utama bisnis mereka (kehangatan relasi pelanggan).
+2. **Pesan yang Membantu Rasa Dipercaya:** Memberikan jaminan pendampingan langsung dan memastikan bahwa antarmuka sistem baru mirip dengan apa yang sudah biasa dipakai staf mengurangi rasa takut akan perubahan.
+3. **Pelajaran untuk Selanjutnya:** Pendekatan *hybrid* (AI untuk penyaringan awal + manusia untuk keputusan penting) adalah jembatan paling efektif untuk mengadopsi teknologi pada pengguna yang konservatif.
+
+## Tindak lanjut dan batas bukti
+
+- **Rencana Tindak Lanjut:** Menyusun prafasilitasi *bot FAQ*, menyiapakan modul latihan 30 menit untuk staf, dan memulai pendampingan uji coba 7 hari pada hari Senin.
+- **Batas Bukti:** Interaksi ini merupakan simulasi peran konsultasi bisnis berbasis teks; keberhasilan penerapan TI sebenarnya bergantung pada performa sistem teknis dan adaptasi staf di lapangan.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum dinilai |
+| Sesi 1 | 18% | 100.0 (Usulan AI)[cite: 13] |
+| Sesi 2a | 18% | 100.0 (Usulan AI)[cite: 13] |
+| Sesi 2b | 18% | 100.0 (Usulan AI)[cite: 13] |
+| Sesi 3a | 18% | 100.0 (Usulan AI)[cite: 13] |
+| Sesi 3b | 18% | BT[cite: 13] |
+| **Total** | **100%** | **Belum dihitung**[cite: 13] |
+
+*Catatan:* Nilai akhir UTS ditulis **Belum dihitung** sampai nilai makalah dan seluruh sesi 1–3b completed serta diverifikasi oleh dosen pembimbing[cite: 13].

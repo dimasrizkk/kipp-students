@@ -1,0 +1,146 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2b — Kasus 2"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Dimas Nurizki Falah |
+| NIM | 18225055 |
+| Kelas dan tanggal | K-01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b; Kasus 2 (Persahabatan dan profesionalitas) |
+| Nama dan ID target | Budi (K2-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+- **Brief kasus:** Tenggat tugas kelompok tinggal 48 jam lagi[cite: 10]. Rekan dekat (Budi, K2-02) belum mengirim bagian tugasnya karena merasa pembagian kerja tidak terukur, ragu pada perubahan metode, dan membutuhkan kejelasan prosedur serta tenggat tertulis[cite: 9, 10, 12]. Mahasiswa bertugas mengajak percakapan personal yang menjaga persahabatan sekaligus menyepakati komitmen dan tenggat kerja tertulis secara profesional[cite: 9, 10].
+- **Konteks:** Penyelesaian tugas kelompok kuliah di bawah tenggat waktu kritis 48 jam[cite: 10].
+- **Respons akhir yang diharapkan:** Validasi terhadap komitmen Budi, perbandingan terstruktur antara bobot kerja lama dan baru, serta penetapan pembagian tugas dan tenggat tertulis secara presisi[cite: 9].
+- **Indikator keberhasilan:** Budi merasa tanggung jawabnya dihargai, menyetujui matrik pembagian tugas tertulis, dan berkomitmen mengirimkan bagian tugasnya tepat waktu sebelum tenggat[cite: 9].
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Strength: Mampu menyusun argumen terstruktur dan objektif. Weakness: Potensi terlalu cepat memberikan janji tanpa data tertulis. Opportunity: Menyusun matriks kerja terukur untuk kelompok. Threat: Penolakan dari Budi jika perbandingan prosedur tidak transparan. | [U001, U002] | Sementara |
+| Attitude | Menghargai komitmen, tertib, dan menjaga kejelasan prosedur kerja bersama. | [U002] | Sementara |
+| Knowledge | Memahami pentingnya matrik pembagian kerja dan transparansi bobot tugas. | [U002] | Laporan diri |
+| Skill | Kemampuan menyusun jadwal tertulis, negosiasi prosedural, dan *check-in* terstruktur. | [U003, U004] | Laporan diri |
+| Preferensi/MBTI jika dilaporkan | Belum ada diagnosis (Laporan diri) | [U001] | Hipotesis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa sains/teknologi yang logis, tertib, dan menghargai kepastian prosedur. | [U001, U003] | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyepakati pembagian tugas dan tenggat tertulis yang terukur. | A: Penghargaan tanggung jawab; K: Bukti perbandingan; S: Matriks tertulis. | Membandingkan bobot cara lama vs baru secara detail. | Kesepakatan jadwal dan draf tugas. |
+| Attention | Bertanya mengapa harus mengubah cara kerja yang sudah berjalan. | A: Validasi atas dedikasi dan standar kerja Budi. | Pertanyaan terbuka mengenai kekhawatiran spesifiknya. | Budi menjelaskan persepsi bobot kerjanya. |
+| Interest | Berminat jika ada bukti perbandingan terukur dan kepastian prosedur. | K: Penjelasan kuantitatif pembagian bobot tugas. | Menyajikan tabel/matriks pembagian peran. | Budi meninjau angka dan bobot tugas. |
+| Desire | Ingin agar pembagian kerja adil dan memiliki batasan yang jelas. | S: Penyusunan tenggat tertulis dan indikator cermatan. | Penawaran batasan ruang lingkup tugas tertulis. | Budi menyatakan persetujuan prosedural. |
+| Action | Komitmen menyelesaikan tugas sesuai jadwal dan format tertulis. | S: Penetapan *milestone* 12 jam, 24 jam, dan 36 jam. | Dokumentasi jadwal di grup/dokumen bersama. | Pengiriman draf tugas oleh Budi. |
+
+# C) Skrip Percakapan
+
+**U001 [Identifikasi]:**
+*Mahasiswa:* Nama: Dimas Nurizki Falah, NIM: 18225055, Kelas: K-01, Tanggal: 15 Oktober 2026, Modalitas: Teks, Jenis Kasus: Fiktif[cite: 11, 12]. Menjalankan Sesi 2b untuk Kasus 2 dengan target Budi (K2-02)[cite: 11, 12].
+
+**AI001 [Identifikasi & Brief Kasus]:**
+Selamat datang Dimas. Data identitas terkonfirmasi[cite: 10, 12]. Sesi 2b (Kasus 2) aktif[cite: 11, 12]. Target Anda adalah Budi (K2-02), kawan kelompok Anda[cite: 9, 12]. Tenggat tugas kelompok tinggal 48 jam lagi, namun Budi belum mengirim bagian tugasnya[cite: 9, 10]. Budi membuka percakapan: “Cara sekarang sudah jelas. Mengapa harus berubah?”[cite: 9] Bagaimana respon Anda?
+
+**U002 [Simulasi Awal - Validasi & Klarifikasi Prosedur]:**
+*Mahasiswa (Dimas):* "Halo Budi, terima kasih ya sudah kritis menanyakan ini. Aku sangat menghargai dedikasi dan ketertiban kamu dalam menjaga standar kerja kelompok kita selama ini. Alasan kita perlu sedikit menyesuaikan pembagian kali ini bukan untuk merusak cara kerja lama yang sudah bagus, tapi karena di sisa waktu 48 jam ini ada ketidakseimbangan bobot pengerjaan. Boleh kita bedah bareng data pembagian tugasnya secara tertulis supaya transparan dan adil buat kamu?"
+
+**AI002 [Simulasi Awal - Tanggapan Budi]:**
+Budi merespons: "Saya tidak keberatan kalau ada data tertulisnya. Tapi masalahnya, di pembagian awal kemarin, bagian analisis data yang dialokasikan ke saya itu bobotnya jauh lebih besar dibanding bagian teori yang dikerjakan anggota lain. Kalau mau diubah, mana perbandingan spesifiknya? Saya tidak mau cuma janji verbal."
+
+**U003 [Simulasi Awal - Perbandingan Bobot & Kesepakatan Tertulis]:**
+*Mahasiswa (Dimas):* "Setuju banget Budi, kamu benar bahwa analisis data kemarin bobotnya hampir 50% dari total tugas, dan itu memang tidak adil buat kamu. Ini perbandingan tertulis yang sudah aku hitung ulang: 1) Bagianmu dipangkas khusus untuk Analisis Komponen Utama (bobot 25%), 2) Bagian Visualisasi Data (bobot 20%) aku ambil alih, 3) Bagian Teori tetap di anggota lain. Jadwal tertulisnya: Draf analisis kamu dikirim besok jam 12.00, lalu kita lakukan *cross-check* jam 18.00. Gimana menurutmu matriks tertulis ini?"
+
+**AI003 [Simulasi Awal - Kesepakatan Budi]:**
+Budi merespons: "Nah, perbandingan begini baru jelas dan masuk akal. Pembagian bobot 25% itu adil buat saya. Saya terima matriks tertulis ini dan akan kirim draf Analisis Komponen Utama besok jam 12.00 tepat. Terima kasih sudah menyusunnya secara terstruktur."
+
+**U004 [Uji Re-Test - Kendala Baru S/Tenggat Tertulis]:**
+*Mahasiswa (Dimas):* "Terima kasih banyak Budi atas komitmen dan ketertibannya. Nah, bayangkan pada besok jam 10.00 (2 jam sebelum tenggat draf), kamu menemukan ada selisih data dari pustaka lama yang membuat perhitungan butuh waktu tambahan 3 jam. Apa prosedur komunikasi tertulis yang akan kita sepakati saat situasi itu terjadi?"
+
+**AI004 [Evaluasi & Uji Re-test Budi]:**
+Budi merespons: "Kalau ada selisih data jam 10.00, saya akan langsung kirim catatan tertulis di dokumen bersama berisi: 1) Poin selisih data, 2) Estimasi penambahan waktu (3 jam), dan 3) Bagian yang sudah selesai 80%. Saya tidak akan menunda pemberitahuan dan tetap memegang kesepakatan akhir jam 15.00."
+
+**U005 [Konfirmasi]:**
+Ringkasan seluruh proses simulasi, dialog prosedural dengan Budi, dan kesepakatan uji ulang tertulis telah lengkap[cite: 10]. Apakah seluruh data transkrip dan analisis ini telah dikonfirmasi untuk dicetak ke dalam laporan QMD[cite: 10]?
+
+**U006 [Konfirmasi Akhir]:**
+*Mahasiswa (Dimas):* Ya, data sudah sesuai dan dikonfirmasi[cite: 10]. Tampilkan laporan akhir Sesi 2b dalam format QMD lengkap[cite: 10].
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Menghadapi ancaman hambatan komunikasi akibat prosedur tidak terukur. | Peluang memperkuat efisiensi kelompok melalui transparansi tertulis. | [U002, U003] | Laporan diri / Simulasi |
+| Attitude | Skeptis dan defensif terhadap perubahan (Budi). | Kooperatif dan berkomitmen tinggi pada matriks tertulis. | [U002, U003] | Simulasi / Relasional |
+| Knowledge | Merasa bobot tugas tidak adil dan tidak transparan. | Memahami secara presisi perbandingan bobot kerja 25% vs 20%. | [U003, U004] | Laporan dialog |
+| Skill | Tertahan pada prosedur lama tanpa kepastian. | Mampu melakoni mitigasi risiko lewat catatan tertulis terstruktur. | [U003, U004] | Demonstrasi uji ulang |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002 | Budi menolak perubahan tanpa kejelasan data (A rendah). | Validasi dedikasi Budi & penawaran bedah data tertulis. | Budi menyetujui jika ada data perbandingan konkret. | Sikap defensif berkurang, rasa aman meningkat. | Menyesuaikan gaya komunikasi menjadi berbasis data/bukti. |
+| U003 | Budi merasa bobot analisis data awal terlalu besar (K/S terhambat). | Menyajikan penyederhanaan matriks bobot (25%) & jadwal tertulis. | Budi menerima matriks dan berkomitmen pada tenggat jam 12.00. | Hambatan K & S teratasi secara prosedural. | Mengambil alih bagian visualisasi data (20%) secara langsung. |
+| U004 | Uji ulang hambatan penambahan waktu akibat selisih data. | Penetapan protokol pelaporan tertulis dalam situasi darurat. | Budi menyetujui pelaporan 3 poin di dokumen bersama. | Kepastian operasional S meningkat secara terukur. | Menyediakan instrumen *check-in* berbasis dokumen digital bersama. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 | "Aku sangat menghargai dedikasi dan ketertiban kamu..." | Budi langsung menyampaikan keberatan bobot kerja tanpa amarah. | Rasa aman: Tinggi; Kepercayaan: Sedang ke Tinggi. | Menurunkan hambatan A dan membuka dialog transparan. |
+| U003 | "Setuju banget Budi, kamu benar bahwa analisis data kemarin... tidak adil buat kamu." | Budi merasa didengar, dihargai, dan langsung menyetujui solusi. | Kepercayaan: Tinggi; Keterbukaan: Sangat Tinggi. | Mendorong persetujuan Action secara definitif. |
+
+## Uji ulang dan pembelajaran
+
+- **Stimulus Sejenis:** Penemuan selisih data teknis yang membutuhkan waktu pengerjaan tambahan di pertengahan proses.
+- **Respons Awal vs Uji Ulang:** Pada respon awal, Budi cenderung bertahan pada prosedur tanpa kejelasan kabar. Pada uji ulang, Budi berkomitmen memberikan laporan tertulis 3 poin secara transparan di dokumen bersama.
+- **Indikator Perbaikan:** Terjadinya alur komunikasi darurat yang terstruktur dan terukur tanpa mengganggu tenggat akhir kelompok.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | [U001, U003] "dikirim besok jam 12.00, lalu kita lakukan cross-check..." | Memiliki sasaran terukur untuk menuntaskan tugas lewat kesepakatan tertulis. |
+| Persepsi dan validasi profil/status | 4 | [U002, U003] "menghargai dedikasi dan ketertiban kamu... perbandingan tertulis" | Mengidentifikasi profil ISTJ Budi yang sangat menghargai kejelasan dan bukti. |
+| Pemilihan dan urutan repertoar | 4 | [U002, U003] Validasi komitmen -> Bukti perbandingan bobot -> Matriks jadwal. | Alur penyampaian informasi dari umum ke data kuantitatif berjalan presisi. |
+| Eksekusi jelas, peduli dan konsisten | 4 | [U002, U003] "kamu benar bahwa analisis data kemarin... tidak adil" | Komunikasi sangat tertata, menghormati lawan bicara, dan konsisten. |
+| Evaluasi dan adaptasi | 4 | [U003, U004] "pangkas khusus... Visualisasi Data (bobot 20%) aku ambil alih" | Beradaptasi menyusun ulang alokasi beban secara kuantitatif. |
+| Refleksi dan lesson learned | 4 | [U003, U004] "catatan tertulis di dokumen bersama..." | Mengambil pelajaran pentingnya kejelasan prosedur bagi tipe kepribadian tertib. |
+
+*Usulan nilai AI:* (24 / 24) × 100 = **100.0** (Memerlukan moderasi dosen)[cite: 10].
+
+## Refleksi dan lesson learned mahasiswa
+
+1. **Dugaan yang dikoreksi:** Seseorang yang terkesan kaku atau menolak perubahan bukan berarti tidak mau bekerjasama, melainkan membutuhkan bukti perbandingan dan prosedur tertulis yang transparan.
+2. **Pesan yang Membantu Rasa Dipercaya:** Mengakui validitas keberatan kawan secara kuantitatif (membenarkan bahwa bobot kerjanya memang terlalu besar) membangun kepercayaan secara instan.
+3. **Pelajaran untuk Selanjutnya:** Penyelesaian konflik tugas dengan rekan yang berorientasi detail harus selalu dilengkapi dengan matriks pembagian peran, bobot kerja, dan tenggat tertulis.
+
+## Tindak lanjut dan batas bukti
+
+- **Rencana Tindak Lanjut:** Mengunggah matriks pembagian tugas ke dokumen bersama kelompok, mengambil alih bagian visualisasi data, dan melakukan *cross-check* draf Budi besok jam 12.00.
+- **Batas Bukti:** Interaksi ini merupakan simulasi peran interpersonal berbasis teks; dinamika pengerjaan tugas sebenarnya memerlukan kedisiplinan eksekusi dokumen nyata di luar sesi simulasi.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |

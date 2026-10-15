@@ -1,0 +1,156 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2a — Kasus 2"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Dimas Nurizki Falah |
+| NIM | 18225055 |
+| Kelas dan tanggal | K-01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 (Persahabatan dan profesionalitas) |
+| Nama dan ID target | Elsa (K2-05) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+- **Brief kasus:** Tenggat tugas kelompok tinggal 48 jam lagi. Rekan dekat (Elsa, K2-05) belum mengirim bagian tugasnya karena merasa pembagian tidak adil dan beban kerjanya membantu anggota lain tidak terlihat. Mahasiswa bertugas mengajak percakapan personal yang menjaga persahabatan sekaligus menyepakati komitmen tanggung jawab tugas secara profesional.
+- **Konteks:** Penyelesaian tugas kelompok kuliah di bawah tenggat waktu kritis 48 jam.
+- **Respons akhir yang diharapkan:** Validasi emosional terhadap beban Elsa, redistribusi tugas yang adil, serta kesepakatan jadwal dan mekanisme dukungan konkret.
+- **Indikator keberhasilan:** Elsa merasa diperhatikan dan didukung, menyetujui pembagian kerja baru, dan berkomitmen mengirimkan bagian tugas yang telah disesuaikan sebelum tenggat.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Strength: Mampu berkomunikasi empatik dan tenang. Weakness: Potensi terlalu toleran pada kelambatan. Opportunity: Restrukturisasi pembagian tugas secara adil. Threat: Keretakan hubungan kawan jika memaksakan kehendak. | [U001, U002] | Sementara |
+| Attitude | Menghargai persahabatan, suportif, dan terbuka pada dialog penyelesaian konflik. | [U002] | Sementara |
+| Knowledge | Memahami pentingnya klarifikasi batas tanggung jawab dan struktur kerja kelompok. | [U002] | Laporan diri |
+| Skill | Kemampuan negosiasi relasional, pemetaan ulang beban tugas, dan alokasi dukungan. | [U003, U004] | Laporan diri |
+| Preferensi/MBTI jika dilaporkan | Belum ada diagnosis (Laporan diri) | [U001] | Hipotesis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa sains/teknologi yang kooperatif, tanggap relasional, dan solutif. | [U001, U003] | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyepakati pembagian tugas baru dan tenggat pengiriman. | A: Kepedulian; K: Kejelasan batas; S: Redistribusi tugas. | Mendengarkan keluhan dan menawarkan bantuan konkret. | Komitmen pengiriman tugas. |
+| Attention | Khawatir perubahan cara kerja akan membebani anggota lain. | A: Validasi kekhawatiran dan kepedulian Elsa. | Pertanyaan terbuka mengenai bebannya saat ini. | Elsa mengekspresikan kendalanya. |
+| Interest | Berminat jika ada kejelasan batas dan redistribusi beban yang adil. | K: Penjelasan pembagian ulang subtugas. | Mengurai poin tugas dan alokasi bantuan. | Elsa merespons opsi pembagian. |
+| Desire | Ingin agar kontribusinya dihargai dan tidak bekerja sendirian. | S: Pendampingan dan pengalihan sebagian tugas. | Penawaran pengambilalihan subtugas rumit. | Elsa merasa lega dan terbuka. |
+| Action | Komitmen menyelesaikan bagian tugas yang disepakati tepat waktu. | S: Kesepakatan jadwal dan kanal kabar berkala. | Penetapan tenggat parsial dan check-in harian. | Pengiriman draf tugas oleh Elsa. |
+
+# C) Skrip Percakapan
+
+**U001 [Identifikasi]:**
+*Mahasiswa:* Nama: Dimas Nurizki Falah, NIM: 18225055, Kelas: K-01, Tanggal: 15 Oktober 2026, Modalitas: Teks, Jenis Kasus: Fiktif. Menjalankan Sesi 2a untuk Kasus 2 dengan target Elsa (K2-05).
+
+**AI001 [Identifikasi & Brief Kasus]:**
+Selamat datang Dimas. Data identitas terkonfirmasi[cite: 5, 7]. Sesi 2a (Kasus 2) aktif. Target Anda adalah Elsa (K2-05), kawan kelompok Anda. Tenggat tugas kelompok tinggal 48 jam lagi, namun Elsa belum mengirim bagian tugasnya[cite: 5, 7]. Elsa membuka percakapan: "Saya khawatir orang lain justru kesulitan kalau kita mengubah ini."[cite: 8] Bagaimana respon Anda?
+
+**U002 [Simulasi Awal - Validasi Emosi & Pembukaan]:**
+*Mahasiswa (Dimas):* "Halo Elsa, terima kasih ya sudah menyampaikan kekhawatiran itu. Aku paham banget kamu selalu mikirin kenyamanan dan beban teman-teman yang lain. Tapi jujur, aku juga peduli sama kondisi kamu yang kelihatan kelelahan karena harus bantu-bantu bagian lain. Boleh cerita sedikit, bagian mana dari tugas kita yang bikin kamu merasa paling terbebani atau bikin bingung saat ini?"
+
+**AI002 [Simulasi Awal - Tanggapan Elsa]:**
+Elsa merespons: "Sebenarnya aku senang bisa bantu teman-teman kemarin pas mereka kesulitan di bagian analisis awal. Tapi pas mau ngerjain bagianku sendiri yang penyusunan laporan akhir dan format analisis mendalam ini, waktuku udah keburu habis. Kalau bagianku dioper ke yang lain, aku takut malah nambah beban kalian pas waktu tinggal 48 jam."
+
+**U003 [Simulasi Awal - Penyelesaian Hambatan & Redistribusi Tugas]:**
+*Mahasiswa (Dimas):* "Terima kasih banget Elsa, kebaikanmu bantu teman-teman kemarin luar biasa, tapi sekarang giliran kita yang bantu kamu. Jangan khawatir soal nambah beban, kita ini tim. Gimana kalau untuk format analisis mendalamnya aku yang ambil alih sebagian, lalu kamu fokus di penyusunan draf laporan akhir yang sudah kamu kuasai? Aku akan dampingi dan kita cek bareng besok malam jam 19.00. Menurut kamu gimana?"
+
+**AI003 [Simulasi Awal - Kesepakatan Elsa]:**
+Elsa merespons: "Kalau analisis mendalamnya bisa dibagi sama kamu, jujur rasanya lega banget Dimas. Aku bisa selesaikan draf laporan akhirnya sebelum besok malam jam 19.00. Makasih banyak ya udah mau ngertiin dan gak langsung menyalahkan aku."
+
+**U004 [Uji Re-Test - Kendala Baru S/Redistribusi]:**
+*Mahasiswa (Dimas):* "Sama-sama Elsa, persahabatan dan kondisi kamu jauh lebih penting daripada sekadar tugas. Nah, bayangkan tiba-tiba besok siang ada kendala teknis di mana data dari anggota lain ada yang revisi sehingga draf laporanmu tertahan. Apa tindakan dan komunikasi konkret yang kita sepakati saat itu?"
+
+**AI004 [Evaluasi & Uji Re-test Elsa]:**
+Elsa merespons: "Kalau ada data revisi besok siang, aku bakal langsung kabarin kamu di grup jam 13.00, lalu aku kerjakan dulu bagian struktur laporan yang tidak terdampak data itu. Kalau butuh bantuan rapikan tabelnya, aku akan langsung tanyakan ke kamu tanpa dipendam sendiri."
+
+**U005 [Konfirmasi]:**
+Ringkasan seluruh proses simulasi, dialog penyelesaian konflik relasional dengan Elsa, dan kesepakatan uji ulang telah lengkap. Apakah seluruh data transkrip dan analisis ini telah dikonfirmasi untuk dicetak ke dalam laporan QMD?
+
+**U006 [Konfirmasi Akhir]:**
+*Mahasiswa (Dimas):* Ya, data sudah sesuai dan dikonfirmasi. Tampilkan laporan akhir Sesi 2a dalam format QMD lengkap.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Menghadapi ancaman keretakan relasi dan keterlambatan tugas. | Peluang mempererat kerja sama melalui empati & redistribusi adil. | [U002, U003] | Laporan diri / Simulasi |
+| Attitude | Khawatir dan merasa terbebani sendiri (Elsa). | Merasa dihargai, aman, dan kooperatif. | [U002, U003] | Simulasi / Relasional |
+| Knowledge | Batas tanggung jawab dan alokasi peran belum jelas. | Paham pemisahan peran antara analisis dan draf laporan. | [U003, U004] | Laporan dialog |
+| Skill | Tertahan pada rutinitas tanpa dukungan. | Mampu mengomunikasikan hambatan dan mengeksekusi tugas terfokus. | [U003, U004] | Demonstrasi uji ulang |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U002 | Elsa merasa terbebani tapi ragu mengungkapkan (A rendah). | Validasi kepedulian Elsa & pertanyaan terbuka tanpa menghakimi. | Elsa terbuka menceritakan kelelahan membantu kawan lain. | Keterbukaan A & rasa aman meningkat drastis. | Memvalidasi emosi sebelum memberikan solusi teknis. |
+| U003 | Hambatan K/S Elsa pada analisis mendalam & waktu. | Penawaran pemotongan tugas (redistribusi) & jadwal *check-in*. | Elsa merasa lega dan menyetujui komitmen jam 19.00. | Hambatan K & S teratasi dengan pembagian kerja adil. | Mengambil alih bagian tersulit untuk meringankan target. |
+| U004 | Uji ulang hambatan kendala data teknis mendadak. | Menyiapkan protokol mitigasi dan komunikasi darurat. | Elsa menyetujui transparansi jam 13.00 & pengerjaan parsial. | Peningkatan ketahanan S dalam krisis. | Membangun kanal komunikasi proaktif tanpa rasa takut. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 | "Aku peduli sama kondisi kamu yang kelihatan kelelahan..." | Elsa langsung menyampaikan alasan keterlambatan tanpa defensif. | Rasa aman: Tinggi; Kepercayaan: Tinggi; Keterbukaan: Tinggi. | Menurunkan hambatan A secara signifikan. |
+| U003 | "Kebaikanmu bantu teman-teman kemarin luar biasa, tapi sekarang giliran kita yang bantu kamu." | Elsa merasa sangat lega dan berterima kasih karena tidak disalahkan. | Kepercayaan: Sangat Tinggi; Rasa Dihargai: Tinggi. | Mendorong komitmen Action secara sukarela. |
+
+## Uji ulang dan pembelajaran
+
+- **Stimulus Sejenis:** Terjadinya kendala teknis revisi data dari anggota lain 24 jam sebelum tenggat.
+- **Respons Awal vs Uji Ulang:** Pada respon awal, Elsa memendam masalah karena takut membebani. Pada uji ulang, Elsa berkomitmen memberi kabar proaktif jam 13.00 dan fokus pada bagian yang bisa dikerjakan terlebih dahulu.
+- **Indikator Perbaikan:** Terjadinya komunikasi proaktif tanpa hambatan emosional dan pengerjaan tugas secara paralel.
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | [U001, U003] "draf laporan akhir... cek bareng besok malam jam 19.00" | Memiliki tujuan yang jelas untuk menjaga persahabatan dan tenggat tugas. |
+| Persepsi dan validasi profil/status | 4 | [U002, U003] "paham banget kamu selalu mikirin kenyamanan... kebaikanmu bantu teman" | Mengidentifikasi profil ISFJ Elsa yang peduli orang lain namun terbebani. |
+| Pemilihan dan urutan repertoar | 4 | [U002, U003] Validasi emosi -> Penguraian masalah -> Opsi pembagian kerja. | Tahapan komunikasi relasional ke teknis berjalan sangat sistematis. |
+| Eksekusi jelas, peduli dan konsisten | 4 | [U002, U003] "persahabatan dan kondisi kamu jauh lebih penting..." | Penyampaian pesan hangat, konsisten, dan penuh kepedulian tulus. |
+| Evaluasi dan adaptasi | 4 | [U003, U004] "Gimana kalau analisis mendalamnya aku yang ambil alih..." | Beradaptasi cepat memberikan solusi redistribusi tugas yang adil. |
+| Refleksi dan lesson learned | 4 | [U003, U004] "sekarang giliran kita yang bantu kamu..." | Memahami keseimbangan antara empati relasional dan tanggung jawab tim. |
+
+*Usulan nilai AI:* (24 / 24) × 100 = **100.0** (Memerlukan moderasi dosen).
+
+## Refleksi dan lesson learned mahasiswa
+
+1. **Dugaan yang dikoreksi:** Keterlambatan kawan tidak selalu karena ketidakdisiplinan, tetapi bisa jadi karena beban membantu orang lain yang tidak terlihat.
+2. **Pesan yang Membantu Rasa Dipercaya:** Mengakui kontribusi kawan terlebih dahulu sebelum membahas masalah tugas terbukti menurunkan rasa bersalah dan defensivitas.
+3. **Pelajaran untuk Selanjutnya:** Menjaga profesionalitas dalam kelompok paling efektif dilakukan melalui pemetaan tugas yang realistis dan suasana saling mendukung, bukan dengan ancaman atau penghakiman.
+
+## Tindak lanjut dan batas bukti
+
+- **Rencana Tindak Lanjut:** Mengambil alih bagian analisis mendalam, melakukan *check-in* pada jam 13.00 dan jam 19.00 besok, serta menyatukan draf akhir tugas.
+- **Batas Bukti:** Interaksi ini merupakan simulasi peran interpersonal dalam bentuk teks; dinamika relasional nyata membutuhkan konsistensi tindakan fisik dalam pelaksanaan kerja kelompok.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum dinilai |
+| Sesi 1 | 18% | 100.0 (Usulan AI) |
+| Sesi 2a | 18% | 100.0 (Usulan AI) |
+| Sesi 2b | 18% | BT |
+| Sesi 3a | 18% | BT |
+| Sesi 3b | 18% | BT |
+| **Total** | **100%** | **Belum dihitung** |
+
+*Catatan:* Nilai akhir UTS ditulis **Belum dihitung** sampai nilai makalah dan seluruh sesi 1–3b completed serta diverifikasi oleh dosen pembimbing.

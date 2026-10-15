@@ -1,0 +1,172 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Dimas Nurizki Falah |
+| NIM | 18225055 |
+| Kelas dan tanggal | K-01, 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 (Memimpin diri dan terus belajar) |
+| Nama dan ID target | Diri mahasiswa; pembanding Fajar (K1-06) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif |
+| Kelengkapan transkrip | Lengkap |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+- **Brief kasus:** Mengidentifikasi dan membedah kelemahan diri dalam belajar (gampang lupa, susah fokus, malas, dan gampang terdistraksi) untuk menyusun strategi memimpin diri, mengevaluasi status ASK (Attitude, Knowledge, Skill), serta membandingkannya dengan interaksi tokoh pembanding Fajar (K1-06).
+- **Konteks:** Perkuliahan dan studi mandiri yang membutuhkan fokus berkelanjutan, *deep work*, dan pengelolaan distraksi digital.
+- **Respons akhir yang diharapkan:** Eksekusi metode *Zero-Distraction Audit* dan *Block Time* terstruktur dengan *checklist* konkret serta pengujian diri berulang.
+- **Indikator keberhasilan:** Peningkatan ketahanan fokus belajar, penurunan *screen time* non-produktif di bawah 3 jam/hari, serta eksekusi *checklist* belajar harian minimal 80% ketercapaian.
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | Strength: Cepat memahami konsep awal. Weakness: Mudah terdistraksi, gampang lupa, malas. Opportunity: Metode *checklist* & *time-blocking*. Threat: Kepuasan instan media sosial/game. | [U001, U002] | Sementara |
+| Attitude | Kompromistis terhadap rasa bosan, cepat menyerah saat menemukan materi repetitif. | [U002, U003] | Sementara |
+| Knowledge | Memahami teori *deep work*, Pomodoro, dan *time blocking*, namun minim eksekusi. | [U002] | Laporan diri |
+| Skill | *Attention span* pendek di bawah distraksi digital; butuh instrumen kontrol eksternal. | [U002, U004] | Laporan diri |
+| Preferensi/MBTI jika dilaporkan | Belum ada diagnosis (Laporan diri) | [U001] | Hipotesis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa sains/teknologi yang menghargai efisiensi dan kejelasan logis. | [U001, U003] | Sementara |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Membangun disiplin belajar mandiri tanpa distraksi. | A: Komitmen; K: Struktur kerja; S: *Checklist* eksekusi. | Menetapkan target harian realistis. | Penurunan distraksi digital. |
+| Attention | Sadar akan kelemahan diri (mudah lupa & malas). | A: Penerimaan kelemahan tanpa pembenaran. | Refleksi kritis dan penelusuran akar masalah. | Mengakui kelemahan secara terbuka. |
+| Interest | Berminat pada solusi praktis berbasis *checklist*. | K: Penyusunan urutan kerja singkat. | Pertanyaan eksploratif mengenai hambatan langsung. | Respon positif pada panduan praktis. |
+| Desire | Ingin hasil cepat dan tidak berbelit-belit. | S: Penerapan langsung dalam sesi 25-50 menit. | Pemberian *template* atau *checklist* aksi. | Kesediaan mencoba latihan terstruktur. |
+| Action | Komitmen eksekusi langkah konkret dengan indikator terukur. | S: Uji coba *time-blocking* dan evaluasi mandiri. | Penepatan jadwal dan instrumen kontrol. | Laporan ketercapaian *checklist* harian. |
+
+# C) Skrip Percakapan
+
+**U001 [Identifikasi]:**
+*Mahasiswa:* Nama: Dimas Nurizki Falah, NIM: 18225055, Kelas: K-01, Tanggal: 15 Oktober 2026, Modalitas: Teks, Jenis Kasus: Fiktif. Kelemahan diri: gampang lupa, susah fokus, malas, dan gampang terdistraksi. Yang ingin dikembangkan: bisa lebih fokus, lebih niat belajar dan mengemban ilmu.
+
+**AI001 [Identifikasi]:**
+Selamat datang Dimas. Data identitas terkonfirmasi. Kita berada pada Tahap B: Kasus dan Tujuan. Untuk membedah kelemahan gampang lupa, susah fokus, malas, dan terdistraksi, bagaimana Anda menilai status ASK (Attitude, Knowledge, Skill) Anda dan apa indikator konkret bahwa ini bukan sekadar alasan pelarian?
+
+**U002 [Rencana & Diagnosis Diri]:**
+*Mahasiswa (Dimas):* 
+1. Status ASK Saya:
+   - Attitude: Lemah dan kompromistis. Cepat bosan dengan materi repetitif dan lebih memilih kepuasan instan.
+   - Knowledge: Paham teori Pomodoro dan *deep work*, tapi hanya berhenti di wacana tanpa eksekusi.
+   - Skill: *Attention span* buruk jika ada ponsel/notifikasi.
+2. Indikator Konkret:
+   - Metrik Waktu Fokus: Berapa blok 45–60 menit tanpa *tab* lain yang menghasilkan output nyata.
+   - Zero-Distraction Audit: HP dipindah ruang/mode fokus; *screen time* hiburan harian turun di bawah 3 jam.
+
+**AI002 [Simulasi Awal - Membuka Pembanding Fajar]:**
+Terima kasih atas analisis jujurnya. Sekarang kita masuk ke Tahap C: Simulasi Awal. Kita hadirkan tokoh Fajar (K1-06), seorang pelaksana lapangan pragmatis yang memiliki masalah konsistensi dan tidak suka teori panjang. Fajar berkata: "Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu." Bagaimana pesan Anda kepadanya?
+
+**U003 [Simulasi Awal - Respon ke Fajar]:**
+*Mahasiswa (Dimas):* "Halo Fajar. Saya tidak akan kasih teori berbelit. Ini *checklist* sederhana 3 langkah yang langsung saya pakai sendiri untuk pangkas waktu belajar setengahnya: 1) HP jauhkan ke tas, 2) Pasang timer 25 menit, 3) Tulis 1 target spesifik di kertas. Coba 1 siklus sekarang, kalau tidak terasa manfaatnya, abaikan saja."
+
+**AI003 [Simulasi Awal - Tanggapan Fajar]:**
+Fajar merespons: "Oke, ini singkat dan jelas. Saya coba 25 menit pertama sekarang untuk selesaikan 1 tugas modul. Tapi kalau nanti saya lupa lagi di pertengahan langkah, apa solusinya?"
+
+**U004 [Simulasi Awal - Lanjutan & Uji Refleksi]:**
+*Mahasiswa (Dimas):* "Kalau mulai lupa atau terdistraksi di tengah jalan, langsung coret/catat distraksi itu di kertas kosong 'List Nanti' tanpa membuka aplikasi lain, lalu kembalikan mata ke timer. Selesai 25 menit, baru cek catatan itu. Jangan lawan lupanya, tapi alihkan ke kertas."
+
+**AI004 [Evaluasi Sementara]:**
+Bagus. Sekarang mari lakukan Tahap D & E: Evaluasi dan Uji Re-test Diri. Skenario: Minggu depan Anda menghadapi ujian keras dan rasa malas mendadak datang kembali, materi terasa sangat sulit. Tuliskan pesan untuk diri Anda sendiri dan langkah spesifik yang dijalankan saat itu.
+
+**U005 [Uji Re-test Diri & Refleksi]:**
+*Mahasiswa (Dimas):* 
+Pesan untuk diri sendiri: "Dimas, jangan dibodohi rasa malas. Rasa malas itu cuma sinyal bahwa otakmu kaget sama materi rumit, bukan tanda kamu tidak bisa. Buka laptop sekarang, kecilkan cakupan materi jadi 1 paragraf/1 soal saja. Jangan pikirkan seluruh bab."
+Langkah spesifik saat uji ulang:
+1. Jalankan aturan 5 detik: Berdiri dan jauhkan HP tanpa berpikir.
+2. Ambil kertas HVS, tulis 1 soal terkecil.
+3. Kerjakan 10 menit saja. Jika setelah 10 menit masih malas, boleh berhenti. (Biasanya setelah 10 menit momentum sudah terbentuk).
+4. Indikator evaluasi: Terbuatnya 1 lembar catatan ringkasan materi/1 soal tuntas.
+
+**AI005 [Konfirmasi]:**
+Ringkasan seluruh proses simulasi, dialog pembanding, dan strategi uji ulang telah lengkap. Apakah seluruh data transkrip dan analisis ini telah dikonfirmasi untuk dicetak ke dalam laporan QMD?
+
+**U006 [Konfirmasi Akhir]:**
+*Mahasiswa (Dimas):* Ya, data sudah sesuai dan dikonfirmasi. Tampilkan laporan akhir dalam format QMD lengkap.
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Sering menyerah pada kelemahan diri (malas & terdistraksi). | Menguasai instrumen pemotong batas (*Checklist* & *5-second rule*). | [U002, U005] | Laporan diri / Simulasi |
+| Attitude | Kompromistis & pasif terhadap rasa bosan. | Asertif dan suportif terhadap diri sendiri tanpa kompromi. | [U002, U005] | Simulasi / Refleksi |
+| Knowledge | Tahu teori tanpa pemahaman batas eksekusi. | Paham mekanisme *friction reduction* & alokasi perhatian. | [U002, U004] | Laporan reflektif |
+| Skill | Atensi mudah terpecah oleh notifikasi. | Mampu mengeksekusi micro-tasking & *Zero-Distraction Audit*. | [U003, U005] | Demonstrasi uji ulang |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U003 | Fajar meminta kepraktisan (*Attention* rendah pada teori). | Menyajikan 3 langkah *checklist* instan tanpa teori. | Fajar menerima dan bersedia mencoba 1 siklus. | Peningkatan K & A pada tokoh pembanding. | Menyesuaikan gaya komunikasi menjadi ultra-pragmatis. |
+| U004 | Fajar khawatir lupa di tengah proses. | Instruksi alokasi distraksi ke "List Nanti" di kertas. | Kebutuhan S/Checklist Fajar terpenuhi. | Hambatan S teratasi secara praktis. | Memberikan teknik pembatas beban memori kerja. |
+| U005 | Diri sendiri mengalami distraksi/malas berulang. | Intervensi dialog internal + aturan 10 menit micro-tasking. | Pembentukan momentum belajar mandiri. | Peningkatan S & A pada diri sendiri. | Mengubah pendekatan dari target makro ke mikro. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U003 | Menghargai waktu Fajar dan menawarkan opsi tanpa paksaan ("kalau tidak terasa manfaatnya, abaikan saja"). | Fajar tidak defensif dan langsung menyetujui uji coba. | Keterbukaan: Tinggi; Kepercayaan: Sedang ke Tinggi. | Mendorong tindakan tanpa penolakan. |
+| U005 | Validasi rasa malas diri ("rasa malas itu cuma sinyal bahwa otakmu kaget..."). | Beban emosional berkurang, fokus bergeser ke tindakan mikro. | Rasa aman diri: Tinggi. | Mencegah kompromi malas berlanjut. |
+
+## Uji ulang dan pembelajaran
+
+- **Stimulus Sejenis:** Munculnya rasa malas ekstrem dan materi kuliah yang terlampau rumit saat mendekati ujian.
+- **Respons Awal vs Uji Ulang:** Pada respon awal, cenderung menyerah dan mencari distraksi (*scrolling* HP). Pada uji ulang, menerapkan intervensi *5-second rule*, pengisolasian HP, serta *micro-tasking* 10 menit.
+- **Indikator Perbaikan:** Tereksekusinya minimal 1 *blok fokus* 25 menit dan terciptanya output fisik (catatan/lembar kerja).
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | [U001, U002] "indikator konkret... metrik waktu fokus dan Zero-Distraction Audit" | Tujuan dirumuskan secara jelas, spesifik, dan terukur. |
+| Persepsi dan validasi profil/status | 4 | [U002, U003] "Fajar... saya tidak akan kasih teori berbelit." | Mengidentifikasi hambatan pragmatis target dengan sangat akurat. |
+| Pemilihan dan urutan repertoar | 4 | [U003, U004] "1) HP jauhkan, 2) Pasang timer, 3) Tulis 1 target" | Pemilihan instrumen bertahap dari pemikatan perhatian hingga tindakan. |
+| Eksekusi jelas, peduli dan konsisten | 4 | [U003, U005] "kalau tidak terasa manfaatnya, abaikan saja." | Komunikasi langsung, empati tanpa mengurangi ketegasan arah. |
+| Evaluasi dan adaptasi | 4 | [U004, U005] "Jangan lawan lupanya, tapi alihkan ke kertas." | Mampu beradaptasi cepat terhadap potensi hambatan di tengah eksekusi. |
+| Refleksi dan lesson learned | 4 | [U002, U005] "rasa malas itu cuma sinyal bahwa otakmu kaget..." | Memiliki pemahaman kritis tingkat tinggi terhadap pola kegagalan diri. |
+
+*Usulan nilai AI:* (24 / 24) × 100 = **100.0** (Memerlukan moderasi dosen).
+
+## Refleksi dan lesson learned mahasiswa
+
+1. **Dugaan yang dikoreksi:** Malas dan susah fokus bukanlah sifat bawaan yang permanen, melainkan akibat dari tidak adanya batasan eksternal yang jelas dan terlalu besarnya cakupan tugas yang dipikirkan sekaligus.
+2. **Stimulus Efektif:** Pendekatan ultra-praktis (*checklist*, *micro-tasking*, dan isolasi HP secara fisik) jauh lebih efektif dibanding motivasi teoritis.
+3. **Perubahan ASK Diri:** Mengubah pola pikir dari mencari "niat" (perasaan) menjadi membangun "sistem eksekusi" (tindakan).
+
+## Tindak lanjut dan batas bukti
+
+- **Rencana Tindak Lanjut:** Memasang aplikasi pemblokir otomatis di ponsel pada jam belajar harian (19.00–21.00) dan menggunakan papan *checklist* fisik di meja belajar.
+- **Batas Bukti:** Keberhasilan dalam simulasi teks ini merupakan bukti kesadaran konseptual dan kesiapan strategi, namun konsistensi jangka panjang tetap bergantung pada disiplin eksekusi harian mahasiswa di luar sesi simulasi.
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Belum dinilai |
+| Sesi 1 | 18% | 100.0 (Usulan AI) |
+| Sesi 2a | 18% | BT |
+| Sesi 2b | 18% | BT |
+| Sesi 3a | 18% | BT |
+| Sesi 3b | 18% | BT |
+| **Total** | **100%** | **Belum dihitung** |
+
+*Catatan:* Nilai akhir UTS ditulis **Belum dihitung** sampai nilai makalah dan seluruh sesi 1–3b completed serta diverifikasi oleh dosen pembimbing.
