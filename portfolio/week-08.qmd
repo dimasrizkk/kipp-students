@@ -1,68 +1,56 @@
 ---
-title: "UTS Performance Evidence Package"
+title: "Portfolio Minggu 8 - UTS KIPP"
 week: 8
-status: "Selesai"
-self_score: "24/24 (100.0)"
-assessor_score: "Menunggu Dosen"
-description: "Integrated performance Target–Attention–Interest–Desire–Action lintas 5 sesi simulasi UTS."
+status: "Siap dinilai"
+self_score: "-"
+assessor_score: "-"
+description: "Makalah pra-UTS, lima laporan kasus individual, refleksi lintas sesi, dan rekap nilai UTS."
 categories: [Assessment, UTS]
 ---
 
-## Kompetensi Target
+## Identitas dan status paket
 
-Mengintegrasikan *person recognition*, *state recognition*, *repertoire*, *language*, *response*, dan *adaptation* dalam lima skenario komunikasi interpersonal (Sesi 1: Dialog Diri & Fajar; Sesi 2a: Elsa; Sesi 2b: Budi; Sesi 3a: Elsa; Sesi 3b: Ali)[cite: 1, 7, 12, 15, 19].
+| Elemen | Keterangan |
+|---|---|
+| Nama | Dimas Nurizki Falah |
+| NIM | 18225055 |
+| Kelas | K-01 |
+| Modalitas | Teks; simulasi kasus fiktif |
 
-## Performance Card dan Initial State
+## Kelengkapan Evidence
 
-- **Profil Komunikan Utama:**
-  - **Sesi 1 (Diri & Fajar / K1-06):** Diri sendiri (Dimas, masalah fokus & malas) dan Fajar (ESTP, pragmatis, butuh *checklist* cepat)[cite: 1, 2, 3].
-  - **Sesi 2a (Elsa / K2-05):** Rekan dekat (ISFJ, terbebankan membantu kawan, takut menambah beban tim)[cite: 7, 8].
-  - **Sesi 2b (Budi / K2-02):** Rekan dekat (ISTJ, tertib, butuh perbandingan bobot kerja & tenggat tertulis)[cite: 9, 12].
-  - **Sesi 3a (Elsa / K3-05):** Pengelola usaha (ISFJ, cemas otomatisasi menghilangkan kehangatan layanan)[cite: 15, 16].
-  - **Sesi 3b (Ali / K3-01):** Pengelola usaha (INFP, ragu pada kemampuan staf, butuh *baby steps* & pendampingan)[cite: 19, 20].
-- **Objective Sesi:**
-  - *Sesi 1:* Menembus *denial* kelemahan diri melalui *Zero-Distraction Audit* & menyajikan *checklist* 3 langkah bagi Fajar[cite: 3].
-  - *Sesi 2a/2b:* Memperbaiki alokasi tugas kelompok 48 jam sebelum tenggat tanpa merusak persahabatan[cite: 10].
-  - *Sesi 3a/3b:* Mengubah resistensi adopsi TI/AI menjadi kesepakatan uji coba/simulasi terbatas[cite: 10].
+| Komponen | Berkas jawaban | Target sesuai paket | Status | Bagian evidence |
+|---|---|---|---|---|
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Empat pertanyaan MBTI, komunikasi, dan PASK | Siap dinilai | Empat pembahasan utama, contoh, keterbatasan, dan daftar pustaka |
+| Sesi 1 | [hasil_1_18225055.qmd](UTS/hasil_1_18225055.qmd) | Diri saya; pembanding F, K1-06 | Siap dinilai | A-D; U001-U006 dan AI001-AI005; uji ulang U004-U005 |
+| Sesi 2a | [hasil_2a_18225055.qmd](UTS/hasil_2a_18225055.qmd) | E, K2-05 | Siap dinilai | A-D; U001-U006 dan AI001-AI004; uji ulang U004 |
+| Sesi 2b | [hasil_2b_18225055.qmd](UTS/hasil_2b_18225055.qmd) | B, K2-02 | Siap dinilai | A-D; U001-U006 dan AI001-AI004; uji ulang U004 |
+| Sesi 3a | [hasil_3a_18225055.qmd](UTS/hasil_3a_18225055.qmd) | E, K3-05 | Siap dinilai | A-D; U001-U006 dan AI001-AI004; uji ulang U004 |
+| Sesi 3b | [hasil_3b_18225055.qmd](UTS/hasil_3b_18225055.qmd) | A, K3-01 | Siap dinilai | A-D; U001-U006 dan AI001-AI004; uji ulang U004 |
 
-## Decisive Moments (Lintas Sesi)
+Target ditulis dengan inisial satu huruf. ID profil dipertahankan sesuai paket; awalan K1/K2/K3 pada ID tersebut adalah nomor kasus, bukan kelas.
 
-> **Dimas (Sesi 1 - Refleksi Diri):** "Rasa malas itu cuma sinyal bahwa otakmu kaget sama materi rumit, bukan tanda kamu tidak bisa. Buka laptop sekarang, kecilkan cakupan materi jadi 1 paragraf/1 soal saja."  
-> **Adaptasi:** Beralih dari target makro yang memicu penundaan (*procrastination*) ke eksekusi *micro-tasking* 10 menit dengan aturan 5 detik.
+## Refleksi lintas sesi
 
-> **Budi (Sesi 2b):** "Saya tidak keberatan kalau ada data tertulisnya. Tapi bagian analisis data kemarin bobotnya jauh lebih besar. Mana perbandingan spesifiknya?"  
-> **Dimas:** "Setuju banget Budi, analisis data kemarin bobotnya hampir 50% dari total tugas dan itu memang tidak adil. Ini perbandingan tertulisnya: bagianmu dipangkas khusus Analisis Komponen Utama (25%), Visualisasi Data (20%) aku ambil alih."  
-> **Adaptasi:** Berhenti memberikan janji verbal dan langsung menyajikan matriks kuantitatif bobot kerja secara transparan[cite: 9].
+Pada sesi 1, saya belajar memisahkan kelemahan diri (*gampang lupa, susah fokus, malas, terdistraksi*) dari penilaian karakter bawaan. Pesan menuntut niat semata diperbaiki menjadi eksekusi instrumen fisik (*Zero-Distraction Audit*, isolasi HP, dan *micro-tasking* 10 menit). Respons F (Fajar) sebagai pembanding memperlihatkan pentingnya menyajikan *checklist* 3 langkah langsung tanpa teori berbelit.
 
-> **Ali (Sesi 3b):** "Kalau cuma demo 15 menit sepertinya bisa. Tapi saya ragu staf saya sanggup, takut malah banyak bikin salah."  
-> **Dimas:** "Justru karena itu sistem ini menggunakan tombol balasan terstruktur yang aman. Selain demo 15 menit, saya pribadi akan dampingi staf Mas Ali dalam latihan 10 menit sampai mereka percaya diri."  
-> **Adaptasi:** Mencegah kecemasan pengguna dengan menawarkan mode simulasi internal sebelum interaksi dengan pelanggan nyata[cite: 20].
+Perbedaan sesi 2a dan 2b membuat saya mengubah bentuk kepedulian secara kontekstual. E (Elsa) membutuhkan validasi emosional atas kelelahannya membantu kawan serta dukungan redistribusi tugas yang adil tanpa rasa bersalah; B (Budi) meminta matriks kuantitatif perbandingan bobot kerja (pemangkasan bagian menjadi 25%) serta prosedur pencatatan tertulis di dokumen bersama.
 
-## Replay dan Adaptation Highlights
+Pada sesi 3a dan 3b, kebutuhan customer mendahului pilihan teknologi. E (Elsa) menekankan kehangatan relasi pelanggan, ketiadaan aplikasi rumit baru untuk staf, serta garansi pendampingan langsung; A (Ali) menekankan rasa aman staf, pengenalan demo langkah kecil 15 menit, serta penyediaan *sandbox mode* (mode simulasi internal) sebelum berinteraksi dengan pelanggan nyata.
 
-1. **Pengakuan Premise Lawan Bicara:** Di seluruh sesi, pengakuan jujur atas kondisi lawan bicara (seperti membenarkan bahwa tugas Budi memang terlalu berat atau memvalidasi rasa takut Ali) secara instan menurunkan ketegangan (*defensiveness*).
-2. **Pergeseran Repertoar:** Beradaptasi dari gaya penjelasan konseptual ke pemberian instrumen konkret: *checklist* 3 langkah (Sesi 1), matriks bobot 25% (Sesi 2b), dan skema *hybrid* AI-manusia dengan garansi pendampingan (Sesi 3a/3b).
-3. **Penyusunan Protokol Mitigasi:** Pada tahap uji ulang (*re-test*), disepakati langkah penanganan krisis yang terukur seperti *check-in* darurat jam 13.00, penggunaan *buffer message*, dan *sandbox mode*.
+Latihan berikutnya adalah meminta target mengulang satu keputusan setelah saya merangkum responsnya. Saya akan memeriksa apa yang berubah, siapa owner-nya, serta batas kapasitas sebelum menambah usulan.
 
-## Evidence Package Links
+{{< include "../includes/uts-penilaian.md" >}}
 
-- Laporan Sesi 1 QMD: `portfolio/UTS/hasil_1_18225055.qmd`
-- Laporan Sesi 2a QMD: `portfolio/UTS/hasil_2a_18225055.qmd`
-- Laporan Sesi 2b QMD: `portfolio/UTS/hasil_2b_18225055.qmd`
-- Laporan Sesi 3a QMD: `portfolio/UTS/hasil_3a_18225055.qmd`
-- Laporan Sesi 3b QMD: `portfolio/UTS/hasil_3b_18225055.qmd`
-- Makalah Pra-UTS QMD: `portfolio/UTS/paper.qmd`
+## Rekap nilai komponen
 
-## Self-Assessment (Rata-rata Lintas 5 Sesi)
+| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
+|---|---:|---:|---|---|---|
+| Makalah | 10% | - | - | - | Belum dinilai |
+| Sesi 1 | 18% | - | - | - | Belum dinilai |
+| Sesi 2a | 18% | - | - | - | Belum dinilai |
+| Sesi 2b | 18% | - | - | - | Belum dinilai |
+| Sesi 3a | 18% | - | - | - | Belum dinilai |
+| Sesi 3b | 18% | - | - | - | Belum dinilai |
 
-| Dimensi Penilaian | Skor Usulan | Bukti Singkat / Penjelasan |
-|---|---:|---|
-| **1. Tujuan dan Konteks** | 4 | Sasaran tindakan dirumuskan secara terukur (*smart*), spesifik pada batas waktu kritis[cite: 10]. |
-| **2. Persepsi dan Validasi Profil/Status** | 4 | Mengidentifikasi hambatan A/K/S target secara presisi (ESTP, ISFJ, ISTJ, INFP)[cite: 2, 8, 9, 16, 20]. |
-| **3. Pemilihan dan Urutan Repertoar** | 4 | Alur komunikasi bergerak sistematis dari validasi empati $\rightarrow$ pembukian $\rightarrow$ kesepakatan. |
-| **4. Eksekusi Jelas, Peduli, dan Konsisten** | 4 | Bahasa santun, menghormati otonomi target, tanpa kompromi pada tanggung jawab. |
-| **5. Evaluasi dan Adaptasi** | 4 | Beradaptasi instan saat mendapat tanggapan keraguan/penolakan dari komunikan. |
-| **6. Refleksi dan Lesson Learned** | 4 | Penarikan pelajaran kritis berbasis bukti dialog aktual pada setiap laporan kasus. |
-
-**Total Skor Usulan AI: 24/24 (100.0 — Sangat Kompeten)**  
-*(Nilai Akhir UTS ditulis **Belum dihitung** sampai nilai komponen Makalah `paper.qmd` dan moderasi dosen tersedia)*[cite: 10].
+**Nilai akhir UTS resmi: belum dihitung.** Rekap dan kolom nilai pada indeks portfolio dibiarkan kosong sampai hasil penilaian tersedia.
