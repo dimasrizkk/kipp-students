@@ -40,8 +40,6 @@ Pada sesi 3a dan 3b, kebutuhan customer mendahului pilihan teknologi. E (Elsa) m
 
 Latihan berikutnya adalah meminta target mengulang satu keputusan setelah saya merangkum responsnya. Saya akan memeriksa apa yang berubah, siapa owner-nya, serta batas kapasitas sebelum menambah usulan.
 
-{{< include "../includes/uts-penilaian.md" >}}
-
 ## Rekap nilai komponen
 
 | Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
